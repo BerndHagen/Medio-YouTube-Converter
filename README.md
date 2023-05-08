@@ -31,3 +31,6 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 ◾ ⠀The interface color has been changed from purple to blue </br>
 
 **Known Issues:** A software issue has been identified pertaining to the taskbar button of the application, which results in users being unable to minimize the application upon clicking the button. However, a solution is currently being developed and is set to be included in the forthcoming release of Medio.
+
+# Copyright 
+Medio is a software program created by me and is protected by copyright law. The program is available for free download and use, and no license is required for its use. However, some additional features may require a license. The software may not be modified or manipulated in any way, and any attempts to do so will be considered a violation of this copyright. The software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
