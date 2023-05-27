@@ -14,7 +14,7 @@ Presently, PayPal serves as the sole avenue for acquiring a license. To commence
 
 The license purchased by the user will remain valid for 60 days from the date of purchase. Following this period, the license will expire and become invalid. Upon activation of the product key, the features corresponding to the selected license will be permanently available to users of the Medio software, unless they remove and install the software again.
 
-# Update 1.3.7
+# Version 1.3.7
 **Release: 28-05-2023 at 00:24AM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
@@ -29,7 +29,7 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 
 **Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
-# Update 1.3.6
+# Version 1.3.6
 **Release: 05-05-2023 at 4:36PM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
