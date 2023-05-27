@@ -10,12 +10,27 @@ One of the standout characteristics of Medio is its intuitive design, which faci
 In conclusion, Medio is an exceptional YouTube Converter that offers users an expedient way to download videos and audios in a wide range of formats. With its intuitive design and customizable options, Medio is a valuable tool for anyone looking to quickly and effortlessly download their favorite videos and audios from YouTube.
 
 # Get License 
-Presently, PayPal serves as the sole avenue for acquiring a license. To commence the purchasing process, patrons must navigate to the Premium section of the Medio software and initiate the transaction by selecting the designated button. Upon doing so, users will be redirected to a PayPal donation page offering a selection of three distinct pricing tiers. Alternatively, patrons may use the "other" button to facilitate the purchase of multiple licenses. Upon successful donation, the purchased license will be promptly dispatched within 24 hours to the email address associated with the PayPal account used for the transaction. In the unlikely event of any complications, kindly direct all license-related queries or refund requests to the proprietor of Medio.
+Presently, PayPal serves as the sole avenue for acquiring a license. To commence the purchasing process, users must navigate to the Premium section of the Medio software and initiate the transaction by selecting the designated button. Upon doing so, users will be seamlessly redirected to a secure PayPal page, where they can proceed with the payment process to acquire their desired license. Upon successful payment, the purchased license will be promptly dispatched within 24 hours to the email address associated with the PayPal account used for the transaction. In the unlikely event of any complications, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
-The license purchased by the user will remain valid for 30 days from the date of purchase. Following this period, the license will expire and become invalid. Upon activation of the product key, the features corresponding to the selected license will be permanently available to users of the Medio software, unless they remove and install the software again.
+The license purchased by the user will remain valid for 60 days from the date of purchase. Following this period, the license will expire and become invalid. Upon activation of the product key, the features corresponding to the selected license will be permanently available to users of the Medio software, unless they remove and install the software again.
+
+# Update 1.3.7
+**Release: 28-05-2023 at 00:24AM** </br>
+The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
+
+◾ ⠀Directory Path now supports symbols, blanks, and special characters in folders </br>
+◾ ⠀Encore unlocks all available options except Playlist Download functionality </br>
+◾ ⠀Added animated Status indicator with dynamic dots for visual feedback. </br>
+◾ ⠀Fixed a bug that required application restart for changes to take effect after entering the product key </br>
+◾ ⠀Directory Path can now be set and customized anywhere within the system </br>
+◾ ⠀Significantly improved performance and stability for Single Video and Audio downloads </br>
+◾ ⠀Currency representation has been changed to Euro (€) from British Pound (GBP) for pricing consistency. </br>
+◾ ⠀Properly rearranged and aligned icons in the navigation bar for improved visual organization. </br>
+
+**Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
 # Update 1.3.6
-**Release: 05-05-2023 at 16:36PM** </br>
+**Release: 05-05-2023 at 4:36PM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
 ◾ ⠀Medio now supports download speeds of up to 250 Mbit/s </br>
