@@ -15,8 +15,9 @@ If you appreciate the work behind Medio and would like to show your support, you
 For those who prefer not to make a purchase, there is an alternative option available. You can select one of the two licenses provided below, which allow unlimited usage and access to all features. These licenses offer a convenient alternative for accessing Medio's functionalities without the need for a purchase.
 
 <pre>
-Encore License:      W6QY-JQ54-H99H-DT6W      -> Encore boosts Bandwidth and unlocks further Functionalities
-Premium License:     4RF2-4VZH-88FM-9C5M      -> Premium grants unlimited Bandwidth and unlocks all Features
+```diff
+Encore License:      W6QY-JQ54-H99H-DT6W  -->  <font color="#808080">Encore boosts Bandwidth and unlocks further Functionalities</font>
+Premium License:     4RF2-4VZH-88FM-9C5M  -->  <font color="#808080">Premium grants unlimited Bandwidth and unlocks all Features</font>
 </pre>
 
 In the unlikely event of any complications during the purchase process, kindly direct all license-related queries or refund requests to the proprietor of Medio.
