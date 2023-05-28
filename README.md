@@ -10,9 +10,14 @@ One of the standout characteristics of Medio is its intuitive design, which faci
 In conclusion, Medio is an exceptional YouTube Converter that offers users an expedient way to download videos and audios in a wide range of formats. With its intuitive design and customizable options, Medio is a valuable tool for anyone looking to quickly and effortlessly download their favorite videos and audios from YouTube.
 
 # Get License 
-Presently, PayPal serves as the sole avenue for acquiring a license. To commence the purchasing process, users must navigate to the Premium section of the Medio software and initiate the transaction by selecting the designated button. Upon doing so, users will be seamlessly redirected to a secure PayPal page, where they can proceed with the payment process to acquire their desired license. Upon successful payment, the purchased license will be promptly dispatched within 24 hours to the email address associated with the PayPal account used for the transaction. In the unlikely event of any complications, kindly direct all license-related queries or refund requests to the proprietor of Medio.
+If you appreciate the work behind Medio and would like to show your support, you have the option to purchase a personal lifetime license via PayPal. To initiate the purchasing process, you are required to navigate to the Premium section within the Medio software and commence the transaction by selecting the designated button. This action seamlessly redirects to a secure PayPal page, where you can proceed with the payment to acquire your desired license. Upon successful payment, the purchased license will be promptly sent within 24 hours to the email address associated with the PayPal account used for the transaction.
 
-The license purchased by the user will remain valid for 60 days from the date of purchase. Following this period, the license will expire and become invalid. Upon activation of the product key, the features corresponding to the selected license will be permanently available to users of the Medio software, unless they remove and install the software again.
+For those who prefer not to make a purchase, there is an alternative option available. You can select one of the two licenses provided below, which allow unlimited usage and access to all features. These licenses offer a convenient alternative for accessing Medio's functionalities without the need for a purchase.
+
+**Encore License:     W6QY-JQ54-H99H-DT6W** </br>
+**Premium License:    4RF2-4VZH-88FM-9C5M** </br>
+
+In the unlikely event of any complications during the purchase process, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
 # Version 1.3.7
 **Release: 28-05-2023 at 00:24AM** </br>
