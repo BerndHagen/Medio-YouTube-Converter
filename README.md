@@ -34,6 +34,7 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 ◾ ⠀Rectified a bug related to the improper behavior of the Status Text when changing the URL frequently </br>
 ◾ ⠀Improved functionality by allowing selection of the WMA audio format </br>
 ◾ ⠀Expanded functionality to include selection of the MOV video format </br>
+◾ ⠀The Converter section no longer resets audio/video selection when switching pages </br>
 
 **Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
