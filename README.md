@@ -21,6 +21,20 @@ Free Trial License:     YNW7-ZU8T-K6Q1-OLP2
 
 In the unlikely event of any complications during the purchase process, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
+# Version 1.4.1
+**Release: 09-08-2023 at 14:45PM** </br>
+The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
+
+◾ ⠀Updated the application's visual interface to feature a darker aesthetic </br>
+◾ ⠀Enhanced Medio's Level System by incorporating distinct titles </br>
+◾ ⠀Resolved a critical issue that may led to application crashes upon clicking images </br>
+◾ ⠀Implemented automatic resumption of downloads in case of brief Internet Connection loss </br>
+◾ ⠀Augmented User Friendliness by altering the cursor behavior during button hover </br>
+◾ ⠀Rectified a bug affecting the completeness of the progress bar upon download completion </br>
+◾ ⠀Substituted text with buttons in the History section to enhance page scrolling convenience </br>
+
+**Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
+
 # Version 1.4.0
 **Release: 29-05-2023 at 03:45AM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
@@ -28,7 +42,7 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 ◾ ⠀Added two new Buffer Sizes in the Settings section </br>
 ◾ ⠀Implemented a Trial Version, accessible via a key available in this repository </br>
 ◾ ⠀Resolved a critical bug that caused FFMPEG to run in the background, resulting in disruptive issues </br>
-◾ ⠀Enabled selection of the WMV video format to expand available options. </br>
+◾ ⠀Enabled selection of the WMV video format to expand available options </br>
 ◾ ⠀Expanded available options for audio and video qualities </br>
 ◾ ⠀Enhanced functionality to allow selection of the AAC audio format </br>
 ◾ ⠀Rectified a bug related to the improper behavior of the Status Text when changing the URL frequently </br>
@@ -36,7 +50,7 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 ◾ ⠀Expanded functionality to include selection of the MOV video format </br>
 ◾ ⠀The Converter section no longer resets audio/video selection when switching pages </br>
 
-**Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
+**Known Issues:** A software issue has been identified related to the download progress bar in the application's download section. This issue causes the progress bar not to fill completely after a download is finished. However, a solution is actively being developed and is scheduled for inclusion in the upcoming release of Medio.
 
 # Version 1.3.9
 **Release: 21-05-2023 at 00:24AM** </br>
