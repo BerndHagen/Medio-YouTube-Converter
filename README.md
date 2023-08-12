@@ -32,6 +32,8 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 ◾ ⠀Augmented User Friendliness by altering the cursor behavior during button hover </br>
 ◾ ⠀Rectified a bug affecting the completeness of the progress bar upon download completion </br>
 ◾ ⠀Substituted text with buttons in the History section to enhance page scrolling convenience </br>
+◾ ⠀Resolved an issue in the Converter section where tab jumping was not functioning in the correct order </br>
+◾ ⠀Enhanced hover effects by refining background and font colors </br>
 
 **Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
