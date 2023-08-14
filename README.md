@@ -31,6 +31,8 @@ Please ensure you're using the most up-to-date version of Medio when downloading
 ◾ ⠀After the installation, access "C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and replace "medio-src.txt" file </br>
 ◾ ⠀Launch the application to automatically import your previous progress into the latest version </br>
 
+Avoid altering or removing any other files within the folder, as this could result in file corruption, potentially causing the application to malfunction or fail to open. If such a situation arises, a complete reinstallation is necessary to rectify the issue.
+
 # Version 1.4.1
 **Release: 12-08-2023 at 14:45PM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
