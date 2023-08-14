@@ -21,15 +21,15 @@ Free Trial License:     YNW7-ZU8T-K6Q1-OLP2
 
 In the unlikely event of any complications during the purchase process, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
-# Updating Medio while preserving Progress 
-Please ensure you're using the most up-to-date version of Medio when downloading audio or video from YouTube. Some files may have been updated in newer versions to ensure proper functionality during the downloading process. Additionally, newer versions offer users new features and address various issues. Using an outdated Medio version could result in incomplete downloads. If you wish to install a newer version of Medio while retaining your current progress, including levels and history, follow these steps:
+# Updating Medio 
+Please ensure you're using the most up-to-date version of Medio when downloading audio or video from YouTube. Some files may have been updated in newer versions to ensure proper functionality during the downloading process. Additionally, newer versions offer users new features and address various issues. Using an outdated Medio version could result in incomplete downloads. If you wish to install a newer version of Medio while retaining your current progress, including levels, history and other statistics, follow these steps:
 
 ◾ ⠀Download the latest version of Medio from the GitHub repository </br>
 ◾ ⠀Navigate to "C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and copy the "medio-src.txt" file to your desktop </br>
 ◾ ⠀Proceed to the "Programs and Features" section and uninstall your current Medio version </br>
 ◾ ⠀Once the uninstallation is complete, open the downloaded zip folder and install the latest Medio version as usual </br>
 ◾ ⠀After the installation is finished, access "C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and replace the "medio-src.txt" file </br>
-◾ ⠀Launch the application to view your progress from the previous version </br>
+◾ ⠀Launch the application to automatically import your previous progress into the latest version </br>
 
 # Version 1.4.1
 **Release: 12-08-2023 at 14:45PM** </br>
