@@ -28,7 +28,7 @@ Please ensure you're using the most up-to-date version of Medio when downloading
 ◾ ⠀Navigate to "C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and copy the "medio-src.txt" file to your desktop </br>
 ◾ ⠀Proceed to the "Programs and Features" section and uninstall your current Medio version </br>
 ◾ ⠀Once the uninstallation is complete, open the downloaded zip folder and install the latest Medio version as usual </br>
-◾ ⠀After the installation is finished, access "C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and replace the "medio-src.txt" file </br>
+◾ ⠀After the installation, access "C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and replace the "medio-src.txt" file </br>
 ◾ ⠀Launch the application to automatically import your previous progress into the latest version </br>
 
 # Version 1.4.1
