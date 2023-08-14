@@ -25,7 +25,7 @@ In the unlikely event of any complications during the purchase process, kindly d
 Please ensure you're using the most up-to-date version of Medio when downloading audio or video from YouTube. Some files may have been updated in newer versions to ensure proper functionality during the downloading process. Additionally, newer versions offer users new features and address various issues. Using an outdated Medio version could result in incomplete downloads. If you wish to install a newer version of Medio while retaining your current progress, including levels, history and other statistics, follow these steps:
 
 ◾ ⠀Download the latest version of Medio from this GitHub repository </br>
-◾ ⠀Go to "C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and copy medio-src.txt on your desktop </br>
+◾ ⠀Go to "...\AppData\Roaming\Medio\Medio - YouTube Converter\Resources" and copy medio-src.txt on your desktop </br>
 ◾ ⠀Proceed to the "Programs and Features" section and uninstall your current Medio version </br>
 ◾ ⠀Once the uninstallation is complete, open the downloaded zip folder and install the latest Medio version as usual </br>
 ◾ ⠀Navigate back to the Resource folder and replace the existing medio-src.txt file with the one on your desktop </br>
