@@ -26,15 +26,16 @@ Make sure you're utilizing the most up-to-date version of Medio when you're in t
 **Release: 12-08-2023 at 14:45PM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
-◾ ⠀Updated the application's visual interface to feature a darker aesthetic </br>
-◾ ⠀Enhanced Medio's Level System by incorporating distinct titles </br>
-◾ ⠀Resolved a critical issue that may led to application crashes upon clicking images </br>
-◾ ⠀Implemented automatic resumption of downloads in case of brief Internet Connection loss </br>
-◾ ⠀Augmented User Friendliness by altering the cursor behavior during button hover </br>
-◾ ⠀Rectified a bug affecting the completeness of the progress bar upon download completion </br>
-◾ ⠀Substituted text with buttons in the History section to enhance page scrolling convenience </br>
-◾ ⠀Resolved an issue in the Converter section where tab jumping was not functioning in the correct order </br>
-◾ ⠀Enhanced hover effects by refining background and font colors </br>
+• ⠀Updated the application's visual interface to feature a darker aesthetic </br>
+• ⠀Enhanced Medio's Level System by incorporating distinct titles </br>
+• ⠀Resolved a critical issue that may led to application crashes upon clicking images </br>
+• ⠀Implemented automatic resumption of downloads in case of brief Internet Connection loss </br>
+• ⠀Augmented User Friendliness by altering the cursor behavior during button hover </br>
+• ⠀Rectified a bug affecting the completeness of the progress bar upon download completion </br>
+• ⠀Substituted text with buttons in the History section to enhance page scrolling convenience </br>
+• ⠀Resolved an issue in the Converter section where tab jumping was not functioning in the correct order </br>
+• ⠀Enhanced hover effects by refining background and font colors </br>
+• ⠀Application reinstallation in the same directory preserves information and product activation </br>
 
 **Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
@@ -42,16 +43,16 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 **Release: 29-05-2023 at 03:45AM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
-◾ ⠀Added two new Buffer Sizes in the Settings section </br>
-◾ ⠀Implemented a Trial Version, accessible via a key available in this repository </br>
-◾ ⠀Resolved a critical bug that caused FFMPEG to run in the background, resulting in disruptive issues </br>
-◾ ⠀Enabled selection of the WMV video format to expand available options </br>
-◾ ⠀Expanded available options for audio and video qualities </br>
-◾ ⠀Enhanced functionality to allow selection of the AAC audio format </br>
-◾ ⠀Rectified a bug related to the improper behavior of the Status Text when changing the URL frequently </br>
-◾ ⠀Improved functionality by allowing selection of the WMA audio format </br>
-◾ ⠀Expanded functionality to include selection of the MOV video format </br>
-◾ ⠀The Converter section no longer resets audio/video selection when switching pages </br>
+• ⠀Added two new Buffer Sizes in the Settings section </br>
+• ⠀Implemented a Trial Version, accessible via a key available in this repository </br>
+• ⠀Resolved a critical bug that caused FFMPEG to run in the background, resulting in disruptive issues </br>
+• ⠀Enabled selection of the WMV video format to expand available options </br>
+• ⠀Expanded available options for audio and video qualities </br>
+• ⠀Enhanced functionality to allow selection of the AAC audio format </br>
+• ⠀Rectified a bug related to the improper behavior of the Status Text when changing the URL frequently </br>
+• ⠀Improved functionality by allowing selection of the WMA audio format </br>
+• ⠀Expanded functionality to include selection of the MOV video format </br>
+• ⠀The Converter section no longer resets audio/video selection when switching pages </br>
 
 **Known Issues:** A software issue has been identified related to the download progress bar in the application's download section. This issue causes the progress bar not to fill completely after a download is finished. However, a solution is actively being developed and is scheduled for inclusion in the upcoming release of Medio.
 
@@ -59,14 +60,14 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 **Release: 21-05-2023 at 00:24AM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
-◾ ⠀Directory Path now supports symbols, blanks, and special characters in folders </br>
-◾ ⠀Encore unlocks all available options except Playlist Download functionality </br>
-◾ ⠀Added animated Status indicator with dynamic dots for visual feedback </br>
-◾ ⠀Fixed a bug that required application restart for changes to take effect after entering the product key </br>
-◾ ⠀Directory Path can now be set and customized anywhere within the system </br>
-◾ ⠀Significantly improved performance and stability for Single Video and Audio downloads </br>
-◾ ⠀Currency representation has been changed to Euro (€) from British Pound (GBP) for pricing consistency </br>
-◾ ⠀Properly rearranged and aligned icons in the navigation bar for improved visual organization </br>
+• ⠀Directory Path now supports symbols, blanks, and special characters in folders </br>
+• ⠀Encore unlocks all available options except Playlist Download functionality </br>
+• ⠀Added animated Status indicator with dynamic dots for visual feedback </br>
+• ⠀Fixed a bug that required application restart for changes to take effect after entering the product key </br>
+• ⠀Directory Path can now be set and customized anywhere within the system </br>
+• ⠀Significantly improved performance and stability for Single Video and Audio downloads </br>
+• ⠀Currency representation has been changed to Euro (€) from British Pound (GBP) for pricing consistency </br>
+• ⠀Properly rearranged and aligned icons in the navigation bar for improved visual organization </br>
 
 **Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
@@ -74,17 +75,17 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 **Release: 05-05-2023 at 4:36PM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
-◾ ⠀Medio now supports download speeds of up to 250 Mbit/s </br>
-◾ ⠀The Settings now includes a Buffer Size function </br>
-◾ ⠀Medio boasts a new Logo and Icon </br>
-◾ ⠀Playlist downloads are now counted in the Dashboard's Statistics </br>
-◾ ⠀Medio saves changes upon exiting the application </br>
-◾ ⠀Download limit for Classic version has been set to unlimited </br>
-◾ ⠀The software now requires less disk space </br>
-◾ ⠀An additional History Page has been added </br>
-◾ ⠀The Minimize and Exit Buttons now feature a Hover Effect </br>
-◾ ⠀The Premium License is now on a permanent sale for 4.99£ </br>
-◾ ⠀The interface color has been changed from purple to blue </br>
+• ⠀Medio now supports download speeds of up to 250 Mbit/s </br>
+• ⠀The Settings now includes a Buffer Size function </br>
+• ⠀Medio boasts a new Logo and Icon </br>
+• ⠀Playlist downloads are now counted in the Dashboard's Statistics </br>
+• ⠀Medio saves changes upon exiting the application </br>
+• ⠀Download limit for Classic version has been set to unlimited </br>
+• ⠀The software now requires less disk space </br>
+• ⠀An additional History Page has been added </br>
+• ⠀The Minimize and Exit Buttons now feature a Hover Effect </br>
+• ⠀The Premium License is now on a permanent sale for 4.99£ </br>
+• ⠀The interface color has been changed from purple to blue </br>
 
 **Known Issues:** A software issue has been identified pertaining to the taskbar button of the application, which results in users being unable to minimize the application upon clicking the button. However, a solution is currently being developed and is set to be included in the forthcoming release of Medio.
 
