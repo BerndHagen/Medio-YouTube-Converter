@@ -22,16 +22,7 @@ Free Trial License:     YNW7-ZU8T-K6Q1-OLP2
 In the unlikely event of any complications during the purchase process, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
 # Updating Medio 
-Please ensure you're using the most up-to-date version of Medio when downloading audio or video from YouTube. Some files may have been updated in newer versions to ensure proper functionality during the downloading process. Additionally, newer versions offer users new features and address various issues. Using an outdated Medio version could result in incomplete downloads. If you wish to install a newer version of Medio while retaining your current progress, including levels, history and other statistics, follow these steps:
-
-◾ ⠀Download the latest version of Medio from this GitHub repository </br>
-◾ ⠀Go to Medio's Resource folde and copy medio-src.txt on desktop </br>
-◾ ⠀Proceed to the "Programs and Features" section and uninstall your current Medio version </br>
-◾ ⠀Once the uninstallation is complete, open the downloaded zip folder and install the latest Medio version as usual </br>
-◾ ⠀Navigate back to the Resource folder and replace the existing medio-src.txt file with the one on your desktop </br>
-◾ ⠀Launch the application to automatically import your previous progress into the latest version </br>
-
-Avoid altering or removing any other files within the folder, as this could result in file corruption, potentially causing the application to malfunction or fail to open. If such a situation arises, a complete reinstallation is necessary to rectify the issue.
+Please ensure you're using the latest version and files of Medio when downloading audio or video content from YouTube. These newer releases not only introduce additional features for users, but also address various issues that can cause software instability. It's important to note that some files might need updates over time to maintain proper functionality during the download process. Using outdated files could result in incomplete downloads or failures to convert content into the desired format. To stay current, it's highly recommended to periodically check this repository for any newly updated Medio files. To update Medio, access the **Releases** section within this Repository and download the latest **update.zip** folder onto your device. After completing the download, navigate to the directory **C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter** and replace the existing files with those from the downloaded zip folder. Allow the process to run its course to ensure that all necessary files are effectively updated. Be cautious and avoid altering or removing any other files within the folder, as this could lead to file corruption, potentially resulting in application malfunction or failure to open. If you encounter such a situation, a complete reinstallation will be necessary to resolve the issue comprehensively.
 
 # Version 1.4.1
 **Release: 12-08-2023 at 14:45PM** </br>
