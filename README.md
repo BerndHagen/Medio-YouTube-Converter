@@ -20,7 +20,7 @@ Free Trial License:     YNW7-ZU8T-K6Q1-OLP2
 In the unlikely event of any complications during the purchase process, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
 # Updating Files 
-Make sure you're utilizing the most up-to-date version of Medio when you're in the process of downloading audio or video content from YouTube. These recent releases not only introduce additional features for your convenience but also address various issues that might lead to software instability. It's important to keep in mind that certain files might necessitate updates over time to ensure a seamless download process. Using an outdated version of Medio could result in downloads that are incomplete or failures when attempting to convert content into your desired format. To bring your Medio software up to date, begin by downloading the latest release from this repository and saving it on your device. Next, navigate to the "Programs and Features" section on Windows and proceed to uninstall the current version of Medio. Once finished, access the downloaded ZIP folder and initiate the installation of the new Medio version. 
+Make sure you're utilizing the most up-to-date version of Medio when you're in the process of downloading audio or video content from YouTube. These recent releases not only introduce additional features for your convenience but also address various issues that might lead to software instability. It's important to keep in mind that certain files might necessitate updates over time to ensure a seamless download process. Using an outdated version of Medio could result in downloads that are incomplete or failures when attempting to convert content into your desired format. To bring your Medio software up to date, begin by downloading the latest release from this repository and saving it on your device. Navigate to the downloaded ZIP folder and initiate the Medio setup to commence the installation process. Follow the provided steps to finalize the installation, which will overwrite the previous files with updated ones. After completion, you can initiate the application effortlessly.
 
 When installing, ensure you designate the installation path as **C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter**. This step is vital to prevent any potential issues while using the application. Additionally, this choice guarantees the accurate import of your information and license key, ensuring a seamless experience.
 
@@ -37,7 +37,7 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 • ⠀Substituted text with buttons in the History section to enhance page scrolling convenience </br>
 • ⠀Resolved an issue in the Converter section where tab jumping was not functioning in the correct order </br>
 • ⠀Enhanced hover effects by refining background and font colors </br>
-• ⠀Application reinstallation in the same directory preserves information and product activation </br>
+• ⠀Uninstallation of the application is no longer required when utilizing newer versions </br>
 
 **Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
