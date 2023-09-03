@@ -24,6 +24,16 @@ Make sure you're utilizing the most up-to-date version of Medio when you're in t
 
 When installing, ensure you designate the installation path as **C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter**. This step is vital to prevent any potential issues while using the application. Additionally, this choice guarantees the accurate import of your information and license key, ensuring a seamless experience.
 
+# Version 1.4.2
+**Release: 03-09-2023 at 15:41PM** </br>
+The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
+
+• ⠀Fixed a bug disabling Premium Settings without an internet connection </br>
+• ⠀Resolved a critical crash bug during license key checks when changing page </br>
+• ⠀Fixed a Trial License Key bug causing occasional Premium Features deactivation </br>
+
+**Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
+
 # Version 1.4.1
 **Release: 12-08-2023 at 14:45PM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
@@ -39,7 +49,7 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 • ⠀Enhanced hover effects by refining background and font colors </br>
 • ⠀Uninstallation of the application is no longer required when utilizing newer versions </br>
 
-**Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
+**Known Issues:** A reported bug causes the Trial License Key to disable Premium Features prematurely, contrary to the typical allowance of ten downloads. A bug fix is currently in progress and will be available in the next release. Your understanding is greatly appreciated!
 
 # Version 1.4.0
 **Release: 29-05-2023 at 03:45AM** </br>
