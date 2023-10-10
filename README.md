@@ -28,9 +28,9 @@ When installing, ensure you designate the installation path as **C:\Users...\App
 **Release: 11-10-2023 at 0:41PM**
 The latest release of Medio is now out and can be downloaded. This update comes with a range of fresh features, bug fixes, and enhancements aimed at boosting the software's performance and user-friendliness. Here's a detailed list of the key updates users can look forward to in this recent version.
 
-• ⠀Introduced extra hover effects to enhance the user experience
-• ⠀Revised certain YouTube files to ensure the application functions correctly
-• ⠀Fixed a bug that prevented the application from starting correctly by loading all elements
+• ⠀Introduced extra hover effects to enhance the user experience </br>
+• ⠀Revised certain YouTube files to ensure the application functions correctly </br>
+• ⠀Fixed a bug that prevented the application from starting correctly by loading all elements </br>
 
 **Known Issues:** As of now, there have been no reported bugs or complications related to the software Medio. Should users encounter any issues or problems, please reach out to Medio's owner for swift examination and resolution. User feedback is greatly appreciated and serves as a vital component in improving the software's overall performance and capabilities.
 
