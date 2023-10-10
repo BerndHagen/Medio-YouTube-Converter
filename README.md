@@ -25,7 +25,7 @@ Make sure you're utilizing the most up-to-date version of Medio when you're in t
 When installing, ensure you designate the installation path as **C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter**. This step is vital to prevent any potential issues while using the application. Additionally, this choice guarantees the accurate import of your information and license key, ensuring a seamless experience.
 
 # Version 1.4.3
-**Release: 11-10-2023 at 0:41PM**
+**Release: 11-10-2023 at 0:41PM**  </br>
 The latest release of Medio is now out and can be downloaded. This update comes with a range of fresh features, bug fixes, and enhancements aimed at boosting the software's performance and user-friendliness. Here's a detailed list of the key updates users can look forward to in this recent version.
 
 • ⠀Introduced extra hover effects to enhance the user experience </br>
