@@ -24,6 +24,16 @@ Make sure you're utilizing the most up-to-date version of Medio when you're in t
 
 When installing, ensure you designate the installation path as **C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter**. This step is vital to prevent any potential issues while using the application. Additionally, this choice guarantees the accurate import of your information and license key, ensuring a seamless experience.
 
+# Version 1.4.4
+**Release: 19-10-2023 at 2:54PM**  </br>
+The most recent Medio release is now available for download, bringing with it a host of new features, bug fixes, and improvements designed to enhance both performance and user experience. Below, you'll find a comprehensive rundown of the significant updates included in this latest version.
+
+• ⠀Fixed a bug where playlist video downloads sometimes resulting in MP4 files </br>
+• ⠀Added thumbnails to audio downloads in MP3 and M4A </br>
+• ⠀Applied thumbnails in video downloads as MP4, MKV and MOV </br>
+
+**Known Issues:** Up to this point, there have been no reported issues or challenges associated with Medio software. However, if users come across any problems or concerns, we encourage you to contact Medio's owner promptly for a thorough evaluation and prompt resolution. Your feedback is highly valued and plays a crucial role in enhancing the software's overall performance and capabilities.
+
 # Version 1.4.3
 **Release: 11-10-2023 at 0:41PM**  </br>
 The latest release of Medio is now out and can be downloaded. This update comes with a range of fresh features, bug fixes, and enhancements aimed at boosting the software's performance and user-friendliness. Here's a detailed list of the key updates users can look forward to in this recent version.
