@@ -127,7 +127,7 @@ Medio is a software program created by me and is protected by copyright law. The
 # Screenshots
 If you'd like to preview the appearance of Medio Software before downloading the Setup folder, you can explore the screenshots provided below. Each screenshot showcases the various tabs and features of the application. Keep in mind that future updates may introduce additional functionalities to enhance user experience.
 
-| Dashboard Page               | Converter                | History Page               |
+| Dashboard Page               | Converter Page              | History Page               |
 |------------------------------|------------------------------|------------------------------|
 | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/Screenshots/v1.4.1-medio_dashboard.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/Screenshots/v1.4.1-medio_converter.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/Screenshots/v1.4.1-medio_history.png" width="300px"> |
 
