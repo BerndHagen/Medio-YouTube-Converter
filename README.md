@@ -25,17 +25,19 @@ Make sure you're utilizing the most up-to-date version of Medio when you're in t
 When installing, ensure you designate the installation path as **C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter**. This step is vital to prevent any potential issues while using the application. Additionally, this choice guarantees the accurate import of your information and license key, ensuring a seamless experience.
 
 # Version 1.4.4
-**Release: 19-10-2023 at 2:54PM**  </br>
+**Release: 19-11-2023 at 11:54PM**  </br>
 The most recent Medio release is now available for download, bringing with it a host of new features, bug fixes, and improvements designed to enhance both performance and user experience. Below, you'll find a comprehensive rundown of the significant updates included in this latest version.
 
 • ⠀Fixed a bug where playlist video downloads sometimes resulting in MP4 files </br>
 • ⠀MP3 and M4A audio downloads now display thumbnails </br>
 • ⠀Video downloads in MP4, MKV or MOV formats now show thumbnails </br>
+• ⠀Adjusted the icon size to scale based on screen resolution </br>
+• ⠀Updated the application with a new, modern icon design </br>
 
 **Known Issues:** Up to this point, there have been no reported issues or challenges associated with Medio software. However, if users come across any problems or concerns, we encourage you to contact Medio's owner promptly for a thorough evaluation and prompt resolution. Your feedback is highly valued and plays a crucial role in enhancing the software's overall performance and capabilities.
 
 # Version 1.4.3
-**Release: 11-10-2023 at 0:41PM**  </br>
+**Release: 11-10-2023 at 2:41PM**  </br>
 The latest release of Medio is now out and can be downloaded. This update comes with a range of fresh features, bug fixes, and enhancements aimed at boosting the software's performance and user-friendliness. Here's a detailed list of the key updates users can look forward to in this recent version.
 
 • ⠀Introduced extra hover effects to enhance the user experience </br>
@@ -45,7 +47,7 @@ The latest release of Medio is now out and can be downloaded. This update comes 
 **Known Issues:** As of now, there have been no reported bugs or complications related to the software Medio. Should users encounter any issues or problems, please reach out to Medio's owner for swift examination and resolution. User feedback is greatly appreciated and serves as a vital component in improving the software's overall performance and capabilities.
 
 # Version 1.4.2
-**Release: 03-09-2023 at 15:41PM** </br>
+**Release: 03-09-2023 at 09:41PM** </br>
 The most recent edition of Medio has been launched and is ready for downloading. This update comprises a range of novel features, bug resolutions, and enhancements geared towards improving the software's functionality and user-friendliness. The subsequent list provides a comprehensive overview of the notable upgrades that users can anticipate in this latest version. </br>
 
 • ⠀Fixed a bug disabling Premium Settings without an internet connection </br>
@@ -55,7 +57,7 @@ The most recent edition of Medio has been launched and is ready for downloading.
 **Known Issues:** To date, there have been no reported issues with the software Medio. If users come across any bugs or problems, they should inform the proprietor of Medio for prompt investigation and resolution. User feedback is highly valued and plays a crucial role in enhancing the software's performance and functionality.
 
 # Version 1.4.1
-**Release: 12-08-2023 at 14:45PM** </br>
+**Release: 12-08-2023 at 11:45PM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
 • ⠀Updated the application's visual interface to feature a darker aesthetic </br>
@@ -72,7 +74,7 @@ The newest version of Medio, the YouTube Converter, has been released and is now
 **Known Issues:** A reported bug causes the Trial License Key to disable Premium Features prematurely, contrary to the typical allowance of ten downloads. A bug fix is currently in progress and will be available in the next release. Your understanding is greatly appreciated!
 
 # Version 1.4.0
-**Release: 29-05-2023 at 03:45AM** </br>
+**Release: 29-05-2023 at 3:45AM** </br>
 The latest version of Medio, which is the YouTube Converter, has been unveiled and is currently accessible for downloading. This update encompasses an array of fresh features, bug resolutions, and other enhancements aimed at elevating the software's efficiency and user-friendliness. The list below presents a thorough overview of the notable enhancements that users can anticipate in this recent release. </br>
 
 • ⠀Added two new Buffer Sizes in the Settings section </br>
@@ -89,7 +91,7 @@ The latest version of Medio, which is the YouTube Converter, has been unveiled a
 **Known Issues:** A software issue has been identified related to the download progress bar in the application's download section. This issue causes the progress bar not to fill completely after a download is finished. However, a solution is actively being developed and is scheduled for inclusion in the upcoming release of Medio.
 
 # Version 1.3.9
-**Release: 21-05-2023 at 00:24AM** </br>
+**Release: 21-05-2023 at 0:24AM** </br>
 The newest version of Medio, the YouTube Converter, has been released and is now available for download. This update includes various new features, bug fixes, and other improvements that enhance the software's performance and usability. The following is a comprehensive list of the significant updates that users can expect from this latest build. </br>
 
 • ⠀Directory Path now supports symbols, blanks, and special characters in folders </br>
