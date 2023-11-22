@@ -34,7 +34,7 @@ The most recent Medio release is now available for download, bringing with it a 
 • ⠀Adjusted the icon size to scale based on screen resolution </br>
 • ⠀Updated the application with a new, modern icon design </br>
 
-**Known Issues:** Up to this point, there have been no reported issues or challenges associated with Medio software. However, if users come across any problems or concerns, we encourage you to contact Medio's owner promptly for a thorough evaluation and prompt resolution. Your feedback is highly valued and plays a crucial role in enhancing the software's overall performance and capabilities.
+**Known Issues:** Up to this point, there have been no reported issues or challenges associated with Medio software. However, if users come across any problems or concerns, I encourage you to get in touch promptly for a thorough evaluation and prompt resolution. Your feedback is highly valued and plays a crucial role in enhancing the software's overall performance and capabilities.
 
 # Version 1.4.3
 **Release: 11-10-2023 at 2:41PM**  </br>
