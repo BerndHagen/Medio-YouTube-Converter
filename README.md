@@ -1,5 +1,3 @@
-# General Information
-
 ![Platforms](https://img.shields.io/badge/platforms-Windows%20|%20Linux-lightgrey)
 ![Last Commit](https://img.shields.io/github/last-commit/BerndHagen/Medio-YouTube-Converter)
 ![License](https://img.shields.io/badge/license-Medio%20EULA-important)
