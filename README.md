@@ -1,3 +1,23 @@
+![Platforms](https://img.shields.io/badge/platforms-Windows%20|%20Linux-lightgrey)
+[![Downloads](https://img.shields.io/badge/downloads-v1.4.5--medio-blue)](https://github.com/BerndHagen/Medio-YouTube-Converter/releases/tag/v1.4.5-medio)
+![Repo size](https://img.shields.io/github/repo-size/BerndHagen/Medio-YouTube-Converter)
+![File size](https://img.shields.io/badge/file%20size-123%20MB-green)
+![Last Commit](https://img.shields.io/github/last-commit/BerndHagen/Medio-YouTube-Converter)
+![License](https://img.shields.io/badge/license-Medio%20EULA-important)
+![Downloads](https://img.shields.io/github/downloads/BerndHagen/Medio-YouTube-Converter/total)
+![Version](https://img.shields.io/github/v/tag/BerndHagen/Medio-YouTube-Converter)
+![Issues](https://img.shields.io/github/issues/BerndHagen/Medio-YouTube-Converter)
+![Contributors](https://img.shields.io/github/contributors/BerndHagen/Medio-YouTube-Converter)
+![Top Language](https://img.shields.io/github/languages/top/BerndHagen/Medio-YouTube-Converter)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/BerndHagen/Medio-YouTube-Converter)
+![Code Size](https://img.shields.io/github/languages/code-size/BerndHagen/Medio-YouTube-Converter)
+![FFMPEG](https://img.shields.io/badge/FFMPEG-supported-orange)
+[![Latest Release](https://img.shields.io/github/release-date/BerndHagen/Medio-YouTube-Converter?label=latest%20release&color=brightgreen)](https://github.com/BerndHagen/Medio-YouTube-Converter/releases/latest)
+![.NET Framework 6.0](https://img.shields.io/badge/.NET%20Framework-6.0-blue)
+
+
+
+
 # Medio - YouTube Converter
 Medio is a powerful software that provides users with a seamless and effective approach to downloading videos and extract audios in a variety of formats from YouTube. Its user-friendly interface empowers users to effortlessly enter the URL of a YouTube video, apply additional settings, such as modifying the quality or filename, before initiating the download. Medio supports an array of video formats, comprising MP4, MVK, AVI, FLV, WMV and MOV and audio formats, including MP3, OGG, WAV, M4A, AAC and WMA which offers users abundant options to choose from.
 
