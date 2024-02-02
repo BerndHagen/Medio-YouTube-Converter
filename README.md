@@ -1,16 +1,16 @@
+# General Information
+
 ![Platforms](https://img.shields.io/badge/platforms-Windows%20|%20Linux-lightgrey)
-[![Downloads](https://img.shields.io/badge/downloads-v1.4.5--medio-blue)](https://github.com/BerndHagen/Medio-YouTube-Converter/releases/tag/v1.4.5-medio)
-![Repo size](https://img.shields.io/github/repo-size/BerndHagen/Medio-YouTube-Converter)
-![File size](https://img.shields.io/badge/file%20size-123%20MB-green)
 ![Last Commit](https://img.shields.io/github/last-commit/BerndHagen/Medio-YouTube-Converter)
 ![License](https://img.shields.io/badge/license-Medio%20EULA-important)
+![File size](https://img.shields.io/badge/file%20size-123%20MB-green)
 ![Downloads](https://img.shields.io/github/downloads/BerndHagen/Medio-YouTube-Converter/total)
 ![Version](https://img.shields.io/github/v/tag/BerndHagen/Medio-YouTube-Converter)
 ![Issues](https://img.shields.io/github/issues/BerndHagen/Medio-YouTube-Converter)
 ![Contributors](https://img.shields.io/github/contributors/BerndHagen/Medio-YouTube-Converter)
 ![Top Language](https://img.shields.io/github/languages/top/BerndHagen/Medio-YouTube-Converter)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/BerndHagen/Medio-YouTube-Converter)
-![Code Size](https://img.shields.io/github/languages/code-size/BerndHagen/Medio-YouTube-Converter)
+![Repo size](https://img.shields.io/github/repo-size/BerndHagen/Medio-YouTube-Converter)
 ![FFMPEG](https://img.shields.io/badge/FFMPEG-supported-orange)
 ![.NET Framework 6.0](https://img.shields.io/badge/.NET%20Framework-6.0-blue)
 
