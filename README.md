@@ -36,13 +36,80 @@ Free Trial License:     YNW7-ZU8T-K6Q1-OLP2
 
 In the unlikely event of any complications during the purchase process, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
-# Updating Files 
-Make sure you're utilizing the most up-to-date version of Medio when you're in the process of downloading audio or video content from YouTube. These recent releases not only introduce additional features for your convenience but also address various issues that might lead to software instability. It's important to keep in mind that certain files might necessitate updates over time to ensure a seamless download process. Using an outdated version of Medio could result in downloads that are incomplete or failures when attempting to convert content into your desired format. To bring your Medio software up to date, begin by downloading the latest release from this repository and saving it on your device. Navigate to the downloaded ZIP folder and initiate the Medio setup to commence the installation process. Follow the provided steps to finalize the installation, which will overwrite the previous files with updated ones. After completion, you can initiate the application effortlessly.
+# Quick Instructions
 
-When installing, ensure you designate the installation path as **C:\Users...\AppData\Roaming\Medio\Medio - YouTube Converter**. This step is vital to prevent any potential issues while using the application. Additionally, this choice guarantees the accurate import of your information and license key, ensuring a seamless experience.
+Ensure a seamless download experience with Medio by configuring your settings before initiating any downloads. Proper setup enhances the quality and efficiency of your downloads. Follow these steps for a streamlined process:
 
-# Copyright 
-Medio is a software program created by me and is protected by copyright law. The program is available for free download and use, and no license is required for its use. However, some additional features may require a license. The software may not be modified or manipulated in any way, and any attempts to do so will be considered a violation of this copyright. The software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+### Step 1: Configure Settings
+- Navigate to the **Settings** page.
+- Select the desired format and adjust preferences such as buffer size to match your requirements.
+
+### Step 2: Download Content
+Once your settings are configured, follow these steps to download content:
+
+1. **Launch Medio Converter:**
+   - Open the application.
+   - Access the `Converter` tab from the sidebar on the left.
+
+2. **Select Download Type:**
+   - Choose `Download Video` for videos or `Download Audio` for audio tracks.
+
+3. **Input URL:**
+   - Paste the YouTube URL into the designated field at the top of the Converter tab.
+
+4. **Adjust Additional Settings:**
+   - **Save Location:** Click the three dots next to the `Choose a Folder Path` field to specify the save directory.
+   - **File Naming:** Enter a name for your file in the `Title your Video` field.
+   - **Quality Selection:** Choose your preferred resolution from the provided list for optimal quality.
+
+5. **Initiate Download:**
+   - Click the `Start Download` button to begin. The application will display the download status in the upper right corner, showing progress and completion indicators.
+
+> **Note:** Medio processes valid links only. An "invalid link" status will be shown for unrecognized URLs.
+
+### After Downloading
+
+After the download is complete, you can:
+- Find your downloaded file in the folder you specified earlier.
+- Check the 'History' tab to view your download history.
+- Upgrade to Medio Premium for additional features and enhanced user experience through the 'Premium' tab.
+
+For more information or support, please [open an issue](<https://github.com/BerndHagen/Medio-YouTube-Converter/issues>) on the GitHub repository or consult the FAQ section in the 'Settings' tab.
+
+# Updating Files
+
+To maintain the highest level of performance and stability while downloading audio or video content from YouTube, it is crucial to use the most current version of Medio. The latest updates bring enhanced features for user convenience and fix various bugs that could compromise software performance. Keeping your software updated is essential, as specific files may require updates to ensure a smooth download experience. Using an outdated version of Medio might lead to incomplete downloads or failures during content conversion.
+
+To update your Medio software, follow these steps:
+
+1. Download the latest version from this repository and save it to your device.
+2. Locate the downloaded ZIP folder and open it to start the Medio setup, initiating the installation process.
+3. Follow the on-screen instructions to complete the installation, which will replace any old files with the new updates.
+4. Once the installation is complete, you can launch the application with ease.
+
+For optimal performance, set the installation path to **`C:\Users\...\AppData\Roaming\Medio\Medio - YouTube Converter`** during setup. This ensures that your information and license key are correctly imported, preventing potential issues and guaranteeing a smooth application experience.
+
+# Copyright
+
+**Copyright © 2023, Medio. All Rights Reserved.**
+
+Medio, a software program developed by me, is protected under copyright laws. This program is made available for free download and usage, with no requirement for a license for its basic features. Certain advanced features of Medio may necessitate a license for usage.
+
+**Restrictions:**
+
+The software and its entirety, including its code, documentation, and associated materials, are not to be altered, modified, or manipulated in any form. Unauthorized changes, modifications, or use of the software for derivative works constitute a breach of copyright and will be subject to legal action.
+
+**Warranty Disclaimer:**
+
+Medio is provided "AS IS," without any warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The entire risk as to the quality and performance of the software lies with the user.
+
+**Limitation of Liability:**
+
+Under no circumstances shall Medio, or any copyright holders or contributors, be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+
+**General Terms:**
+
+Use of Medio signifies your agreement to these terms and conditions. If you do not agree with these terms, you are not authorized to use or distribute this software. For inquiries regarding licenses for additional features or any other questions, please contact me.
 
 # Screenshots
 If you'd like to preview the appearance of Medio Software before downloading the Setup folder, you can explore the screenshots provided below. Each screenshot showcases the various tabs and features of the application. Keep in mind that future updates may introduce additional functionalities to enhance user experience.
