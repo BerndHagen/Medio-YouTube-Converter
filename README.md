@@ -23,11 +23,31 @@ Furthermore, it provides users with various licenses, such as the Premium Licens
 One of the standout characteristics of Medio is its intuitive design, which facilitates ease of navigation and use. The software's clean and straightforward interface enables users to promptly locate the features they require and execute their desired actions. This ensures that users can focus on downloading their preferred YouTube videos without being impeded by perplexing or intricate software interfaces.
 
 # Get License 
-Presently, PayPal serves as the sole avenue for acquiring a license. To commence the purchasing process, users must navigate to the Premium section of the Medio software and initiate the transaction by selecting the designated button. Upon doing so, they will be seamlessly redirected to a PayPal page, where they can proceed with the payment process to acquire their desired license. Upon successful payment, the purchased license will be promptly dispatched within 24 hours to the email address associated with the PayPal account used for the transaction. In the unlikely event of any complications, kindly direct all license-related queries or refund requests to the proprietor of Medio.
 
-Users with an Encore or Premium License Key enjoy a range of additional benefits that enhance their experience with Medio. In addition to the Playlist Downloader feature, another standout benefit lies in the seamless retrieval of profile information via the purchased license key. Upon redeeming a key for the first time, a comprehensive user profile is established within Medio's secure Database, seamlessly integrated with the application. This central repository stores and tracks any subsequent modifications made by the user, including profile images, Dashboard Statistics, History, Settings, License updates and more. This ensures that users can effortlessly maintain and sync their personalized information across devices. In the event of a complete reinstall of the application, users can conveniently utilize their license key on the redemption page. This not only upgrades Medio to its latest version but also retrieves the most up-to-date user information from the Database.
+To begin the purchasing process, users should follow these steps:
+1. Navigate to the Premium section of the Medio software.
+2. Initiate the transaction by selecting the designated button.
+3. You will be seamlessly redirected to a PayPal page.
+4. Complete the payment process to acquire your desired license.
 
-Users who make a purchase acquire a lifetime license key, enabling them to enjoy unrestricted use at any location and time. Once the product key is activated, the features associated with the selected license become a permanent fixture for Medio software users. This permanence remains intact unless the software is uninstalled and reinstalled in a different directory path or when Medio is installed on a new device for the first time. For those who want to thoroughly evaluate the functionality of Medio and explore its complete array of features before committing to a license purchase, the option to redeem the provided key below is available. Upon redemption, users are granted the privilege of 10 downloads, all without any limitations, including access to the coveted Playlist Download feature.
+Upon successful payment, the purchased license will be promptly dispatched within 24 hours to the email address associated with the PayPal account used for the transaction.
+
+### Additional Benefits for Premium License Key Holders
+
+Users with a Premium License Key enjoy a range of additional benefits that enhance their experience with Medio:
+
+- Access to the Playlist Downloader feature.
+- Seamless retrieval of profile information via the purchased license key.
+- Establishment of a comprehensive user profile within Medio's secure Database, integrated with the application.
+- Central repository for storing and tracking user modifications, including profile images, Dashboard Statistics, History, Settings, License updates, and more.
+- Effortless maintenance and synchronization of personalized information across devices.
+- Access to all functions in the settings page, including increased buffer size and selection of various audio and video formats.
+
+### Lifetime License Key
+
+Users who make a purchase acquire a lifetime license key, enabling them to enjoy unrestricted use at any location and time. Once the product key is activated, the features associated with the selected license become a permanent fixture for Medio software users. This permanence remains intact unless the software is uninstalled and reinstalled in a different directory path or when Medio is installed on a new device for the first time.
+
+For those who want to thoroughly evaluate the functionality of Medio and explore its complete array of features before committing to a license purchase, the option to redeem the provided key below is available. Upon redemption, users are granted the privilege of 10 downloads, all without any limitations, including access to the coveted Playlist Download feature.
 
 **Access Medio's Complete Feature Set with this Key** </br>
 <pre>
@@ -72,7 +92,7 @@ Once your settings are configured, follow these steps to download content:
 After the download is complete, you can:
 - Find your downloaded file in the folder you specified earlier.
 - Check the 'History' tab to view your download history.
-- Upgrade to Medio Premium for additional features and enhanced user experience through the 'Premium' tab.
+- Upgrade to Encore or Premium for additional features and enhanced user experience.
 
 For more information or support, please [open an issue](<https://github.com/BerndHagen/Medio-YouTube-Converter/issues>) on the GitHub repository or consult the FAQ section in the 'Settings' tab.
 
@@ -91,25 +111,17 @@ For optimal performance, set the installation path to **`C:\Users\...\AppData\Ro
 
 # Copyright
 
-**Copyright © 2023, Medio. All Rights Reserved.**
+This software program, **Medio**, is an intellectual creation of me, Bernd Hagen, the author and copyright holder, and is protected by copyright law. This comprehensive copyright notice outlines the terms and conditions governing the use, distribution, and modification of Medio:
 
-Medio, a software program developed by me, is protected under copyright laws. This program is made available for free download and usage, with no requirement for a license for its basic features. Certain advanced features of Medio may necessitate a license for usage.
+1. **License**: Medio is made available for free download and use without requiring a separate license. You are granted a limited, non-exclusive, and non-transferable right to use the software in accordance with the terms set forth herein.
 
-**Restrictions:**
+2. **Prohibited Modifications**: You are expressly prohibited from modifying, decompiling, disassembling, reverse engineering, or otherwise manipulating Medio in any manner. Any attempts to do so will be deemed a clear violation of this copyright.
 
-The software and its entirety, including its code, documentation, and associated materials, are not to be altered, modified, or manipulated in any form. Unauthorized changes, modifications, or use of the software for derivative works constitute a breach of copyright and will be subject to legal action.
+3. **Warranty Disclaimer**: Medio is provided *"as is,"* without any warranty of any kind, whether express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and noninfringement. The author and copyright holder make no guarantees regarding the accuracy, reliability, or performance of the software.
 
-**Warranty Disclaimer:**
+4. **Limitation of Liability**: In no event shall the author or copyright holder be held liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use thereof. You expressly understand and agree that you assume all risks associated with the use of Medio.
 
-Medio is provided "AS IS," without any warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The entire risk as to the quality and performance of the software lies with the user.
-
-**Limitation of Liability:**
-
-Under no circumstances shall Medio, or any copyright holders or contributors, be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
-
-**General Terms:**
-
-Use of Medio signifies your agreement to these terms and conditions. If you do not agree with these terms, you are not authorized to use or distribute this software. For inquiries regarding licenses for additional features or any other questions, please contact me.
+By downloading, installing, or using Medio, you acknowledge that you have read and understood this copyright notice and agree to abide by its terms and conditions. Failure to comply with these terms may result in legal action and the revocation of your rights to use Medio.
 
 # Screenshots
 If you'd like to preview the appearance of Medio Software before downloading the Setup folder, you can explore the screenshots provided below. Each screenshot showcases the various tabs and features of the application. Keep in mind that future updates may introduce additional functionalities to enhance user experience.
