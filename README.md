@@ -1,15 +1,3 @@
-![Platforms](https://img.shields.io/badge/platforms-Windows%20|%20Linux-lightgrey)
-![Last Commit](https://img.shields.io/github/last-commit/BerndHagen/Medio-YouTube-Converter)
-![License](https://img.shields.io/badge/license-Medio%20EULA-important)
-![Version](https://img.shields.io/github/v/tag/BerndHagen/Medio-YouTube-Converter)
-![Issues](https://img.shields.io/github/issues/BerndHagen/Medio-YouTube-Converter)
-[![GitHub stars](https://img.shields.io/github/stars/BerndHagen/Medio-YouTube-Converter?style=flat&label=Stars&color=yellow)](https://github.com/BerndHagen/Medio-YouTube-Converter/stargazers)
-![Contributors](https://img.shields.io/github/contributors/BerndHagen/Medio-YouTube-Converter)
-![Top Language](https://img.shields.io/github/languages/top/BerndHagen/Medio-YouTube-Converter)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/BerndHagen/Medio-YouTube-Converter)
-[![GitHub watchers](https://img.shields.io/github/watchers/BerndHagen/Medio-YouTube-Converter?style=flat&label=Watchers&color=yellow)](https://github.com/BerndHagen/Medio-YouTube-Converter/watchers)
-![.NET Framework 6.0](https://img.shields.io/badge/.NET%20Framework-6.0-red)
-
 # Medio - YouTube Converter
 Medio is a powerful software that provides users with a seamless and effective approach to downloading videos and extract audios in a variety of formats from YouTube. Its user-friendly interface empowers users to effortlessly enter the URL of a YouTube video, apply additional settings, such as modifying the quality or filename, before initiating the download. Medio supports an array of video formats, comprising MP4, MVK, AVI, FLV, WMV and MOV and audio formats, including MP3, OGG, WAV, M4A, AAC and WMA which offers users abundant options to choose from.
 
@@ -130,4 +118,3 @@ If you'd like to preview the appearance of Medio Software before downloading the
 | Premium Page               | Activation Page               | Settings Page               |
 |------------------------------|------------------------------|------------------------------|
 | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.4.1-medio_premium.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.4.1-medio_redeem.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.4.1-medio_settings.png" width="300px"> |
-
