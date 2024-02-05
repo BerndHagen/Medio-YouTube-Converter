@@ -1,3 +1,7 @@
+![Platforms](https://img.shields.io/badge/platforms-Windows%20|%20Linux-lightgrey)
+![License](https://img.shields.io/badge/license-Medio%20EULA-blue)
+![.NET Framework 6.0](https://img.shields.io/badge/.NET%20Framework-6.0-red)
+
 # Medio - YouTube Converter
 Medio is a powerful software that provides users with a seamless and effective approach to downloading videos and extract audios in a variety of formats from YouTube. Its user-friendly interface empowers users to effortlessly enter the URL of a YouTube video, apply additional settings, such as modifying the quality or filename, before initiating the download. Medio supports an array of video formats, comprising MP4, MVK, AVI, FLV, WMV and MOV and audio formats, including MP3, OGG, WAV, M4A, AAC and WMA which offers users abundant options to choose from.
 
