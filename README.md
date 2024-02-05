@@ -1,7 +1,3 @@
-![Platforms](https://img.shields.io/badge/platforms-Windows%20|%20Linux-lightgrey)
-![License](https://img.shields.io/badge/license-Medio%20EULA-blue)
-![.NET Framework 6.0](https://img.shields.io/badge/.NET%20Framework-6.0-red)
-
 # Medio - YouTube Converter
 Medio is a powerful software that provides users with a seamless and effective approach to downloading videos and extract audios in a variety of formats from YouTube. Its user-friendly interface empowers users to effortlessly enter the URL of a YouTube video, apply additional settings, such as modifying the quality or filename, before initiating the download. Medio supports an array of video formats, comprising MP4, MVK, AVI, FLV, WMV and MOV and audio formats, including MP3, OGG, WAV, M4A, AAC and WMA which offers users abundant options to choose from.
 
@@ -9,7 +5,7 @@ The software is designed with a user-centric interface that is accessible to all
 
 Furthermore, it provides users with various licenses, such as the Premium License, granting access to supplementary features and functionalities. With the Premium License, users can download entire playlists from YouTube, access new formats, and tweak the download speed to their preferred level. The software is made readily available for download without charge, enabling users to evaluate the software without the need for a license and benefit from unrestricted downloads. This affords them a valuable opportunity to experience the software's user-friendliness and operational efficiency firsthand.
 
-One of the standout characteristics of Medio is its intuitive design, which facilitates ease of navigation and use. The software's clean and straightforward interface enables users to promptly locate the features they require and execute their desired actions. This ensures that users can focus on downloading their preferred YouTube videos without being impeded by perplexing or intricate software interfaces.
+Developed with Visual Studio 2022, Medio is versatile software compatible with both `Windows` and `Linux` systems. For operation, it necessitates the `.NET Framework 6.0` or higher, highlighting its use of contemporary technologies to ensure a smooth and efficient user experience across diverse platforms.
 
 # Get License 
 
