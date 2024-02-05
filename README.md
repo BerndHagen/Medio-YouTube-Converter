@@ -5,7 +5,7 @@ The software is designed with a user-centric interface that is accessible to all
 
 Furthermore, it provides users with various licenses, such as the Premium License, granting access to supplementary features and functionalities. With the Premium License, users can download entire playlists from YouTube, access new formats, and tweak the download speed to their preferred level. The software is made readily available for download without charge, enabling users to evaluate the software without the need for a license and benefit from unrestricted downloads. This affords them a valuable opportunity to experience the software's user-friendliness and operational efficiency firsthand.
 
-Developed with Visual Studio 2022, Medio is versatile software compatible with both `Windows` and `Linux` systems. For operation, it necessitates the `.NET Framework 6.0` or higher, highlighting its use of contemporary technologies to ensure a smooth and efficient user experience across diverse platforms.
+Developed with Visual Studio 2022, Medio is versatile software compatible with both `Windows` and `Linux` systems. For operation, it necessitates the `.NET Framework 6.0` or higher to ensure a smooth and efficient user experience across diverse platforms.
 
 # Get License 
 
