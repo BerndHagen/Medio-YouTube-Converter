@@ -37,6 +37,7 @@ Users with a Premium License Key enjoy a range of additional benefits that enhan
 - Seamless retrieval of profile information via the purchased license key.
 - Establishment of a comprehensive user profile within Medio's secure Database, integrated with the application.
 - Central repository for storing and tracking user modifications, including profile images, Dashboard Statistics, History, Settings, License updates, and more.
+- Synchronization of user data across multiple devices using the same license key.
 - Access to all functions in the settings page, including increased buffer size and selection of various audio and video formats.
 
 ### Lifetime License Key
