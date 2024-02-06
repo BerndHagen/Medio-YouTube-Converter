@@ -92,7 +92,7 @@ To update your Medio software, follow these steps:
 3. Follow the on-screen instructions to complete the installation, which will replace any old files with the new updates.
 4. Once the installation is complete, you can launch the application with ease.
 
-For optimal performance, set the installation path to **`C:\Users\...\AppData\Roaming\Medio\Medio - YouTube Converter`** during setup. This ensures the correct import of your information and license key, preventing potential issues and ensuring a seamless application process.
+For optimal performance, set the installation path to **`C:\Users\...\AppData\Roaming\Medio\Medio - YouTube Converter`** during setup. This guarantees the proper import of your information and license key, averting potential problems and ensuring a smooth operation of the application.
 
 # Copyright
 
