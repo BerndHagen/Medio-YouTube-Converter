@@ -1,15 +1,15 @@
 # Medio - YouTube Converter
-Medio is a powerful software that provides users with a seamless and effective approach to downloading videos and extract audios in a variety of formats from YouTube. Its user-friendly interface empowers users to effortlessly enter the URL of a YouTube video, apply additional settings, such as modifying the quality or filename, before initiating the download. Medio supports an array of video formats, comprising MP4, MVK, AVI, FLV, WMV and MOV and audio formats, including MP3, OGG, WAV, M4A, AAC and WMA which offers users abundant options to choose from.
+Medio is a software that provides users with a seamless and effective approach to downloading videos and extract audios in a variety of formats from YouTube. Its user-friendly interface empowers users to effortlessly enter the URL of a YouTube video, apply additional settings, such as modifying the quality or filename, before initiating the download. Medio supports an array of video formats, comprising MP4, MVK, AVI, FLV, WMV and MOV and audio formats, including MP3, OGG, WAV, M4A, AAC and WMA which offers users abundant options to choose from.
 
 The software is designed with a user-centric interface that is accessible to all users, irrespective of their technical proficiency. Unlike many other YouTube Converters, which may take a protracted duration to download a single video, Medio is engineered to support high-speed downloads, thereby enabling users to download videos and audios within a matter of seconds. This guarantees that users can quickly and effortlessly access their desired content without incurring substantial wait times. 
 
-Furthermore, it provides users with various licenses, such as the Premium License, granting access to supplementary features and functionalities. With the Premium License, users can download entire playlists from YouTube, access new formats, and tweak the download speed to their preferred level. The software is made readily available for download without charge, enabling users to evaluate the software without the need for a license and benefit from unrestricted downloads. This affords them a valuable opportunity to experience the software's user-friendliness and operational efficiency firsthand.
+Furthermore, it provides users with various licenses, such as the Premium License, granting access to supplementary features and functionalities. With the Premium License, users can download entire playlists from YouTube, access new formats, and tweak the download speed to their preferred level. The software is made readily available for download without charge, enabling them to evaluate the software without the need for a license and benefit from unrestricted downloads. This affords them a valuable opportunity to experience the software's user-friendliness and operational efficiency firsthand.
 
 Developed with Visual Studio 2022, Medio is versatile software compatible with both `Windows` and `Linux` systems. For operation, it necessitates the `.NET Framework 6.0` or higher to ensure a smooth and efficient user experience across diverse platforms.
 
 # Get License 
 
-To begin the purchasing process, users should follow these steps:
+To begin the purchasing process, follow these steps:
 1. Navigate to the Premium section of the Medio software.
 2. Initiate the transaction by selecting the designated button.
 3. You will be seamlessly redirected to a PayPal page.
@@ -19,7 +19,7 @@ Upon successful payment, the purchased license will be promptly dispatched withi
 
 ### Additional Benefits for Premium License Key Holders
 
-Users with a Premium License Key enjoy a range of additional benefits that enhance their experience with Medio:
+Users with a Premium License Key enjoy a range of additional benefits:
 
 - Access to the Playlist Downloader feature.
 - Seamless retrieval of profile information via the purchased license key.
@@ -43,7 +43,7 @@ In the unlikely event of any complications during the purchase process, kindly d
 
 # Quick Instructions
 
-Ensure a seamless download experience with Medio by configuring your settings before initiating any downloads. Proper setup enhances the quality and efficiency of your downloads. Follow these steps for a streamlined process:
+Configure your settings before initiating any downloads. Proper setup enhances the quality and efficiency of your downloads. Follow these steps for a streamlined process:
 
 ### Step 1: Configure Settings
 - Navigate to the **Settings** page.
@@ -77,7 +77,7 @@ Once your settings are configured, follow these steps to download content:
 After the download is complete, you can:
 - Find your downloaded file in the folder you specified earlier.
 - Check the 'History' tab to view your download history.
-- Upgrade to Encore or Premium for additional features and enhanced user experience.
+- Upgrade to Encore or Premium for additional features.
 
 For more information or support, please [open an issue](<https://github.com/BerndHagen/Medio-YouTube-Converter/issues>) on the GitHub repository or consult the FAQ section in the 'Settings' tab.
 
@@ -109,7 +109,7 @@ This software program, **Medio**, is an intellectual creation of me, Bernd Hagen
 By downloading, installing, or using Medio, you acknowledge that you have read and understood this copyright notice and agree to abide by its terms and conditions. Failure to comply with these terms may result in legal action and the revocation of your rights to use Medio.
 
 # Screenshots
-If you'd like to preview the appearance of Medio Software before downloading the Setup folder, you can explore the screenshots provided below. Each screenshot showcases the various tabs and features of the application. Keep in mind that future updates may introduce additional functionalities to enhance user experience.
+If you'd like to preview the appearance of Medio Software before downloading the Setup folder, you can explore the screenshots provided below. Each screenshot showcases the various tabs and features of the application. Keep in mind that future updates may introduce additional functionalities.
 
 | Dashboard Page               | Converter Page              | History Page               |
 |------------------------------|------------------------------|------------------------------|
