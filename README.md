@@ -118,16 +118,45 @@ To update your Medio software, follow these steps:
 
 For optimal performance, make sure the installation path is set to `C:\Users\...\AppData\Local\Arctisoft-Studio\Medio - YouTube Converter` during setup. This prevents potential issues and ensures that features are not blocked due to a lack of administrative rights.
 
+## Third-Party Libraries
+
+Medio leverages several third-party libraries to enhance its functionality. One key library used in the application is **FFmpeg**, which plays a crucial role in media processing tasks.
+
+- **FFmpeg:** FFmpeg is a powerful multimedia framework used for handling video, audio, and other multimedia files and streams. It is used by Medio for video and audio format conversion, as well as for encoding and decoding media files.
+
+  - **Website:** [FFmpeg Official Website](https://ffmpeg.org)
+  - **License:** FFmpeg is licensed under the LGPL or GPL, depending on the configuration and features enabled.
+
+For more details about FFmpeg, including its capabilities and licensing, please refer to the [FFmpeg documentation](https://ffmpeg.org/documentation.html).
+
+If you have any questions or issues regarding the use of FFmpeg with Medio, feel free to [open an issue](https://github.com/BerndHagen/Medio-YouTube-Converter/issues) on GitHub.
+
+## Retrieving Data from the Database
+
+By purchasing a license key and redeeming it again in the `Settings` tab under `Key Activation`, **Medio** allows the retrieval of personal data from the database. This process includes downloading:
+
+- **Personal Settings**
+- **Avatar**
+- **Experience Points**
+- **Level**
+- **Total Megabytes Downloaded**
+- **Amount of Audios and Videos Downloaded**
+- **Latest Download**
+
+**Important:** While this process restores most of your personal data, some information such as the **Download History** is stored locally on the device and cannot be recovered from the database. Consequently, any locally stored Download History will be lost if Medio is set up on a new device!
+
 ## Copyright
 
 This software program, **Medio**, is an intellectual creation of Bernd Hagen, the author and copyright holder, and is protected by copyright law. This comprehensive copyright notice outlines the terms and conditions governing the use, distribution, and modification of Medio:
 
-1. **License:** Medio is made available for free download and use without requiring a separate license. You are granted a limited, non-exclusive, and non-transferable right to use the software in accordance with the terms set forth herein.
-2. **Prohibited Modifications:** You are expressly prohibited from modifying, decompiling, disassembling, reverse engineering, or otherwise manipulating Medio in any manner. Any attempts to do so will be deemed a clear violation of this copyright.
-3. **Warranty Disclaimer:** Medio is provided *"as is,"* without any warranty of any kind, whether express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and noninfringement. The author and copyright holder make no guarantees regarding the accuracy, reliability, or performance of the software.
-4. **Limitation of Liability:** In no event shall the author or copyright holder be held liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use thereof. You expressly understand and agree that you assume all risks associated with the use of Medio.
+- **License:** Medio is made available for free download and use without requiring a separate license. You are granted a limited, non-exclusive, and non-transferable right to use the software in accordance with the terms set forth herein.
+- **Prohibited Modifications:** You are expressly prohibited from modifying, decompiling, disassembling, reverse engineering, or otherwise manipulating Medio in any manner. Any attempts to do so will be deemed a clear violation of this copyright.
+- **Warranty Disclaimer:** Medio is provided "as is," without any warranty of any kind, whether express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and noninfringement. The author and copyright holder make no guarantees regarding the accuracy, reliability, or performance of the software.
+- **Limitation of Liability:** In no event shall the author or copyright holder be held liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use thereof. You expressly understand and agree that you assume all risks associated with the use of Medio.
 
-By downloading, installing, or using Medio, you acknowledge that you have read and understood this copyright notice and agree to abide by its terms and conditions. Failure to comply with these terms may result in legal action and the revocation of your rights to use Medio.
+By downloading, installing, or using Medio, it is acknowledged that the copyright notice has been read and understood, and agreement to abide by its terms and conditions is given. Failure to comply with these terms may result in legal action and the revocation of rights to use Medio.
+
+For full details on licensing terms and conditions, refer to the [LICENSE](https://github.com/BerndHagen/Medio-YouTube-Converter/blob/main/LICENSE) file.
 
 ## Screenshots
 
