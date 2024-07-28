@@ -8,16 +8,30 @@ Two license types are available for purchase, offering new features such as addi
 
 ## Table of Contents
 
-1. [License Options and Advantages](#license-options-and-advantages)
+1. [System Requirements](#system-requirements)
+2. [License Options and Advantages](#license-options-and-advantages)
     - [Encore License Benefits](#encore-license-benefits)
     - [Premium License Benefits](#premium-license-benefits)
-2. [Free Trial License Key](#free-trial-license-key)
-3. [Getting Started Guide](#getting-started-guide)
+3. [Free Trial License Key](#free-trial-license-key)
+4. [Getting Started Guide](#getting-started-guide)
     - [Step 1: Configure Settings](#step-1-configure-settings)
     - [Step 2: Download Content](#step-2-download-content)
-4. [Updating Software](#updating-software)
-5. [Screenshots](#screenshots)
+5. [Updating Software](#updating-software)
 6. [Copyright](#copyright)
+7. [Screenshots](#screenshots)
+
+## System Requirements
+
+- **Operating System:** Windows 10 or higher, Ubuntu 20.04 LTS or higher
+- **Processor:** Intel Core i3 or AMD Ryzen 3 or equivalent
+- **RAM:** Minimum 4 GB
+- **Storage:** Minimum 300 MB of free disk space for the application
+- **Software:**
+  - **Windows:** .NET Framework 6.0 or higher
+    - [Download .NET Framework 6.0](https://dotnet.microsoft.com/download/dotnet/6.0)
+  - **Linux:** .NET 6.0 SDK or runtime
+    - [Download .NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+    - [Download .NET 6.0 Runtime](https://dotnet.microsoft.com/download/dotnet/6.0/runtime)
 
 ## License Options and Advantages
 
@@ -34,6 +48,7 @@ Upon successful payment, the license will be sent within 5-10 minutes to the ema
 
 - **Full Access to Settings:** Unlocks all video and audio formats, as well as various buffer sizes.
 - **Secure License Key Storage:** Links the license key to the account in Medio’s database.
+- **Increased Download Bandwidth:** Provides enhanced bandwidth limits for faster download speeds.
 - **Expanded History Feature:** Extends the history to 10 pages for more detailed tracking of download activities.
 
 ### Premium License Benefits
