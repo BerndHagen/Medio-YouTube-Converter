@@ -17,8 +17,10 @@ Two license types are available for purchase, offering new features such as addi
     - [Step 1: Configure Settings](#step-1-configure-settings)
     - [Step 2: Download Content](#step-2-download-content)
 5. [Updating Software](#updating-software)
-6. [Copyright](#copyright)
-7. [Screenshots](#screenshots)
+6. [Third-Party Libraries](#third-party-libraries)
+7. [Retrieving Data from Database](#retrieving-data-from-database)
+8. [Copyright](#copyright)
+9. [Screenshots](#screenshots)
 
 ## System Requirements
 
@@ -37,40 +39,40 @@ Two license types are available for purchase, offering new features such as addi
 
 To initiate the purchase process, follow these steps:
 
-1. Navigate to the **"Premium" tab** in the application's navigation menu.
+1. Navigate to the `Premium` tab in the application's navigation menu.
 2. Select the desired license option.
 3. Click the button that leads to the Stripe payment page.
 4. Complete the purchase using one of the available payment methods on Stripe.
 
-Upon successful payment, the license will be sent within 5-10 minutes to the email address associated with the Stripe account.
+Upon successful payment, the license will be sent within **5-10 minutes** to the email address associated with the Stripe account.
 
 ### Encore License Benefits
 
 - **Full Access to Settings:** Unlocks all video and audio formats, as well as various buffer sizes.
 - **Secure License Key Storage:** Links the license key to the account in Medio’s database.
 - **Increased Download Bandwidth:** Provides enhanced bandwidth limits for faster download speeds.
-- **Expanded History Feature:** Extends the history to 10 pages for more detailed tracking of download activities.
+- **Expanded History:** Extends the history to 10 pages for more detailed tracking of download activities.
 
 ### Premium License Benefits
 
 Includes all benefits of the Encore License, plus:
 
-- **Further Expanded History Feature:** Extends the history to 25 pages for more detailed tracking of download activities.
+- **Further Expanded History:** Extends the history to 25 pages for more detailed tracking of download activities.
 - **Unlimited Download Bandwidth:** Removes restrictions on download bandwidth.
 - **Playlist Downloader Feature:** Enables downloading entire playlists from YouTube.
 
 ## Free Trial License Key
 
-Purchasing a lifetime license key grants unrestricted use of Medio at any location and time. Once activated, the features associated with the selected license become permanent for the Medio software. This permanence is maintained unless the software is reinstalled in a different directory path or installed on a new device.
+Purchasing a lifetime license key grants unrestricted use of Medio at any location and time. Once activated, the features associated with the selected license become permanent for the Medio software. This permanence is maintained unless the software is reinstalled in a different directory path or installed on a new device. In such cases, the license key must be redeemed again to load the latest information from the database.
 
-For those wishing to evaluate Medio's functionality and features before purchasing, a license key can be redeemed below. Upon redemption, users receive 10 downloads, including access to the Playlist Downloader feature, with no limitations.
+For those wishing to evaluate Medio's functionality and features before purchasing, a license key can be redeemed below. Upon redemption, the next **10** downloads will be unrestricted and include access to the Playlist Downloader feature.
 
 **Access Medio's Complete Feature Set with this Key:**
 <pre>
 Free Trial License:     PT4O-5TYD-WKTV-0ZZ7
 </pre>
 
-In the unlikely event of complications during the purchase process, direct all license-related queries or refund requests to the proprietor of Medio.
+In the unlikely event of complications during the purchase process, direct all license-related queries or refund requests to the developer.
 
 ## Getting Started Guide
 
@@ -83,8 +85,7 @@ Optimize your settings before starting any downloads to match your preferences. 
 
 ### Step 2: Download Content
 
-1. **Launch Medio Converter:**
-   - Open the application.
+1. **Open the Converter:**
    - Access the `Converter` tab from the sidebar on the left.
 
 2. **Select Download Type:**
@@ -94,9 +95,9 @@ Optimize your settings before starting any downloads to match your preferences. 
    - Paste the YouTube URL into the designated field at the top of the Converter tab.
 
 4. **Adjust Additional Settings:**
-   - **Save Location:** Click the three dots next to the `Choose a Folder Path` field to specify the save directory.
-   - **File Naming:** Enter a name for your file in the `Title your Video` field.
-   - **Quality Selection:** Choose your preferred resolution from the provided list.
+   - **Save Location:** Click the three dots next to the `Choose a Folder Path` field to specify the save directory. All downloaded files will be stored in this location, so it is recommended to use a separate folder for playlists to keep files organized.
+   - **File Naming:** Enter a custom name for your file in the `Title your Video` field. For single videos or audios, a custom name can be selected, while for playlists, the original title will be used.
+   - **Quality Selection:** Choose your preferred resolution from the provided list. This selection will be applied during the downloading process and can help to reduce the file size.
 
 5. **Initiate Download:**
    - Click the `Start Download` button to begin. The application will display the download status in the upper right corner, showing progress and completion indicators.
@@ -107,12 +108,12 @@ For further assistance or information, please [open an issue](https://github.com
 
 ## Updating Software
 
-To maintain optimal performance and stability when downloading audio or video content from YouTube, it is crucial to use the latest version of Medio. Updates bring enhanced features and fix bugs that could compromise the software's performance. Using an outdated version may lead to incomplete downloads or failures during content conversion.
+To maintain optimal performance and stability when downloading audio or video content from YouTube, it is crucial to use the latest version of Medio. Updates bring enhanced features and fix bugs that could compromise the software's performance. Using an outdated version may lead to incomplete downloads or failures during content conversion. The Build Number version can be found in the bottom left corner of the application, which can be used to check if there is a newer version of Medio available on this GitHub Repository.
 
 To update your Medio software, follow these steps:
 
 1. Download the latest version from the repository and save it to your device.
-2. Open the downloaded ZIP folder and start the Medio setup to initiate the installation process.
+2. Open the downloaded **ZIP** folder and start the Medio setup to initiate the installation process.
 3. Follow the on-screen instructions to complete the installation, replacing any old files with the new updates.
 4. Once the installation is complete, launch the application.
 
@@ -131,7 +132,7 @@ For more details about FFmpeg, including its capabilities and licensing, please 
 
 If you have any questions or issues regarding the use of FFmpeg with Medio, feel free to [open an issue](https://github.com/BerndHagen/Medio-YouTube-Converter/issues) on GitHub.
 
-## Retrieving Data from the Database
+## Retrieving Data from Database
 
 By purchasing a license key and redeeming it again in the `Settings` tab under `Key Activation`, **Medio** allows the retrieval of personal data from the database. This process includes downloading:
 
