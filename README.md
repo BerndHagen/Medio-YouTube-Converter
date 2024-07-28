@@ -116,8 +116,8 @@ For those interested in previewing the appearance of Medio Software before downl
 
 | Dashboard Page               | Converter Page              | History Page               |
 |------------------------------|------------------------------|------------------------------|
-| <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.5.0-medio_dashboard.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.5.0-medio_converter.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.5.0-medio_history.png" width="300px"> |
+| <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_dashboard.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_converter.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_history.png" width="300px"> |
 
 | Premium Page               | Activation Page               | Settings Page               |
 |------------------------------|------------------------------|------------------------------|
-| <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.5.0-medio_premium.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.5.0-medio_redeem.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/v1.5.0-medio_settings.png" width="300px"> |
+| <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_premium.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_redeem.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_settings.png" width="300px"> |
