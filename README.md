@@ -1,52 +1,63 @@
 # Medio - YouTube Converter
 
-**Medio** is a premier software solution designed to efficiently download videos and extract audio from YouTube. Its intuitive interface allows users to enter a YouTube video URL, adjust settings such as quality and filename, and initiate the download process. Medio supports a wide range of video formats, including **MP4, MKV, AVI, FLV, WMV, and MOV**, as well as audio formats like **MP3, OGG, WAV, M4A, AAC, and WMA**.
+Medio is a premier software solution designed to efficiently download videos and extract audio from YouTube. Its intuitive interface allows users to enter a YouTube video URL, adjust settings such as quality and filename, and initiate the download process. Medio supports a wide range of video formats, including **MP4, MKV, AVI, FLV, WMV and MOV**, as well as audio formats like **MP3, OGG, WAV, M4A, AAC and WMA**.
 
-With a user-centric design, the software is accessible to users of all technical levels. Unlike many other YouTube converters, it is optimized for high-speed downloads, enabling users to obtain videos and audio quickly.
+With a user-centric design, the software is accessible to users of all technical levels. Unlike many other YouTube Converters, it is optimized for high-speed downloads, enabling users to obtain videos and audio quickly.
 
-Two license types are available for purchase, offering new features such as additional formats or the Playlist Downloader. Developed with Visual Studio 2022, Medio is compatible with both **Windows** and **Linux** systems, requiring the **.NET Framework 6.0** or higher to ensure efficient performance across platforms.
+Two license types are available for purchase, offering new features such as additional formats or the Playlist Downloader. Developed with Visual Studio 2022, Medio is compatible with both `Windows` and `Linux` systems, requiring the **.NET Framework 6.0** or higher to ensure efficient performance across platforms.
 
-## Get License
+## Table of Contents
 
-To initiate the purchase process, please follow these steps:
+1. [License Options and Advantages](#license-options-and-advantages)
+    - [Encore License Benefits](#encore-license-benefits)
+    - [Premium License Benefits](#premium-license-benefits)
+2. [Free Trial License Key](#free-trial-license-key)
+3. [Getting Started Guide](#getting-started-guide)
+    - [Step 1: Configure Settings](#step-1-configure-settings)
+    - [Step 2: Download Content](#step-2-download-content)
+4. [Updating Software](#updating-software)
+5. [Screenshots](#screenshots)
+6. [Copyright](#copyright)
 
-1. **Navigate to the "Premium" tab** in the application's navigation menu.
-2. **Select the desired license option.**
-3. **Click the button** that leads to the Stripe payment page.
-4. **Complete the purchase** using one of the available payment methods on Stripe.
+## License Options and Advantages
+
+To initiate the purchase process, follow these steps:
+
+1. Navigate to the **"Premium" tab** in the application's navigation menu.
+2. Select the desired license option.
+3. Click the button that leads to the Stripe payment page.
+4. Complete the purchase using one of the available payment methods on Stripe.
 
 Upon successful payment, the license will be sent within 5-10 minutes to the email address associated with the Stripe account.
 
-### Additional Benefits for Encore and Premium License Key Holders
-
-#### Users with an Encore License enjoy the following benefits:
+### Encore License Benefits
 
 - **Full Access to Settings:** Unlocks all video and audio formats, as well as various buffer sizes.
 - **Secure License Key Storage:** Links the license key to the account in Medio’s database.
 - **Expanded History Feature:** Extends the history to 10 pages for more detailed tracking of download activities.
 
-#### Users with a Premium License receive all the benefits of the Encore License, plus additional advantages:
+### Premium License Benefits
 
-- **Full Access to Settings:** Unlocks all video formats, audio formats, and buffer sizes.
-- **Secure License Key Storage:** Associates the license key with the account in Medio’s database.
+Includes all benefits of the Encore License, plus:
+
 - **Further Expanded History Feature:** Extends the history to 25 pages for more detailed tracking of download activities.
 - **Unlimited Download Bandwidth:** Removes restrictions on download bandwidth.
 - **Playlist Downloader Feature:** Enables downloading entire playlists from YouTube.
 
-### Lifetime License Key
+## Free Trial License Key
 
 Purchasing a lifetime license key grants unrestricted use of Medio at any location and time. Once activated, the features associated with the selected license become permanent for the Medio software. This permanence is maintained unless the software is reinstalled in a different directory path or installed on a new device.
 
 For those wishing to evaluate Medio's functionality and features before purchasing, a license key can be redeemed below. Upon redemption, users receive 10 downloads, including access to the Playlist Downloader feature, with no limitations.
 
-**Access Medio's Complete Feature Set with this Key**  
+**Access Medio's Complete Feature Set with this Key:**
 <pre>
 Free Trial License:     PT4O-5TYD-WKTV-0ZZ7
 </pre>
 
 In the unlikely event of complications during the purchase process, direct all license-related queries or refund requests to the proprietor of Medio.
 
-## Quick Instructions
+## Getting Started Guide
 
 Optimize your settings before starting any downloads to match your preferences. Follow these steps for a streamlined process:
 
@@ -56,8 +67,6 @@ Optimize your settings before starting any downloads to match your preferences. 
 - Select the desired format and adjust preferences such as buffer size to match your requirements.
 
 ### Step 2: Download Content
-
-Once your settings are configured, follow these steps to download content:
 
 1. **Launch Medio Converter:**
    - Open the application.
@@ -79,17 +88,9 @@ Once your settings are configured, follow these steps to download content:
 
 > **Note:** Medio processes valid links only. An "invalid link" status will be shown for unrecognized URLs.
 
-### After Downloading
-
-After the download is complete, you can:
-
-- Locate the downloaded file in the specified folder.
-- Review your download history in the 'History' tab.
-- Upgrade to Encore or Premium for enhanced features.
-
 For further assistance or information, please [open an issue](https://github.com/BerndHagen/Medio-YouTube-Converter/issues) on the GitHub repository or consult the FAQ section in the 'Settings' tab.
 
-## Updating Files
+## Updating Software
 
 To maintain optimal performance and stability when downloading audio or video content from YouTube, it is crucial to use the latest version of Medio. Updates bring enhanced features and fix bugs that could compromise the software's performance. Using an outdated version may lead to incomplete downloads or failures during content conversion.
 
@@ -100,11 +101,11 @@ To update your Medio software, follow these steps:
 3. Follow the on-screen instructions to complete the installation, replacing any old files with the new updates.
 4. Once the installation is complete, launch the application.
 
-For optimal performance, make sure the installation path is set to **`C:\Users\...\AppData\Local\Arctisoft-Studio\Medio - YouTube Converter`** during setup. This prevents potential issues and ensures that features are not blocked due to a lack of administrative rights.
+For optimal performance, make sure the installation path is set to `C:\Users\...\AppData\Local\Arctisoft-Studio\Medio - YouTube Converter` during setup. This prevents potential issues and ensures that features are not blocked due to a lack of administrative rights.
 
 ## Copyright
 
-This software program, **Medio**, is an intellectual creation of me, Bernd Hagen, the author and copyright holder, and is protected by copyright law. This comprehensive copyright notice outlines the terms and conditions governing the use, distribution, and modification of Medio:
+This software program, **Medio**, is an intellectual creation of Bernd Hagen, the author and copyright holder, and is protected by copyright law. This comprehensive copyright notice outlines the terms and conditions governing the use, distribution, and modification of Medio:
 
 1. **License:** Medio is made available for free download and use without requiring a separate license. You are granted a limited, non-exclusive, and non-transferable right to use the software in accordance with the terms set forth herein.
 2. **Prohibited Modifications:** You are expressly prohibited from modifying, decompiling, disassembling, reverse engineering, or otherwise manipulating Medio in any manner. Any attempts to do so will be deemed a clear violation of this copyright.
@@ -117,7 +118,7 @@ By downloading, installing, or using Medio, you acknowledge that you have read a
 
 For those interested in previewing the appearance of Medio Software before downloading the setup folder, the screenshots provided below offer a comprehensive overview. Each screenshot highlights various tabs and features of the application. Please note that future updates may introduce additional functionalities.
 
-| Dashboard Page               | Converter Page              | History Page               |
+| Dashboard Page | Converter Page | History Page |
 |------------------------------|-----------------------------|-----------------------------|
 | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_dashboard.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_converter.png" width="300px"> | <img src="https://github.com/BerndHagen/Medio-YouTube-Converter/raw/main/img/img_v1.5.0-medio_history.png" width="300px"> |
 
