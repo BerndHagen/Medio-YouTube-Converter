@@ -50,7 +50,7 @@ Upon successful payment, the license will be sent within **5-10 minutes** to the
 
 - **Full Access to Settings:** Unlocks all video and audio formats, as well as various buffer sizes.
 - **Secure License Key Storage:** Links the license key to the account in Medio’s database.
-- **Increased Download Bandwidth:** Provides enhanced bandwidth limits for faster download speeds.
+- **Increased Download Bandwidth:** Provides enhanced bandwidth limits for faster download speeds. Users can further increase their download speed by adjusting the buffer size in the settings. Increasing the buffer size, which ranges from 1024 to 9216, can help optimize download speed by allowing more data to be preloaded during the download process. This is especially useful for high-speed internet connections and large files.
 - **Expanded History:** Extends the history to 10 pages for more detailed tracking of download activities.
 
 ### Premium License Benefits
@@ -58,14 +58,14 @@ Upon successful payment, the license will be sent within **5-10 minutes** to the
 Includes all benefits of the Encore License, plus:
 
 - **Further Expanded History:** Extends the history to 25 pages for more detailed tracking of download activities.
-- **Unlimited Download Bandwidth:** Removes restrictions on download bandwidth.
+- **Unlimited Download Bandwidth:** Removes restrictions on download bandwidth, allowing for maximum speed based on your internet connection and system performance.
 - **Playlist Downloader Feature:** Enables downloading entire playlists from YouTube.
 
 ## Free Trial License Key
 
-Purchasing a lifetime license key grants unrestricted use of Medio at any location and time. Once activated, the features associated with the selected license become permanent for the Medio software. This permanence is maintained unless the software is reinstalled in a different directory path or installed on a new device. In such cases, the license key must be redeemed again to load the latest information from the database.
+Purchasing a lifetime license key grants unrestricted use of Medio at any location and time. Once activated, the features associated with the selected license become permanent for the Medio software. This permanence is maintained unless the software is reinstalled in a different directory path or installed on a new device. In such cases, the license key must be redeemed again to load the latest information from the database. 
 
-For those wishing to evaluate Medio's functionality and features before purchasing, a license key can be redeemed below. Upon redemption, the next **10** downloads will be unrestricted and include access to the Playlist Downloader feature.
+For those wishing to evaluate Medio's functionality and features before purchasing, a license key can be redeemed below. Upon redemption, the next **10** downloads will be unrestricted and include access to the Playlist Downloader feature. Each device can redeem the key only once. After another redeem, the key can still be entered but won't enable temporary premium features.
 
 **Access Medio's Complete Feature Set with this Key:**
 <pre>
@@ -100,7 +100,7 @@ Optimize your settings before starting any downloads to match your preferences. 
    - **Quality Selection:** Choose your preferred resolution from the provided list. This selection will be applied during the downloading process and can help to reduce the file size.
 
 5. **Initiate Download:**
-   - Click the `Start Download` button to begin. The application will display the download status in the upper right corner, showing progress and completion indicators.
+   - Click the `Start Download` button to begin. The application will display the download status in the upper right corner, showing progress and completion indicators. The `Loading Tools` status indicates that it is starting all necessary processes for downloading and converting while reading the size of the video. The time required for this step depends on the size of the video from YouTube and the internet connection but usually takes only a few seconds.
 
 > **Note:** Medio processes valid links only. An "invalid link" status will be shown for unrecognized URLs.
 
