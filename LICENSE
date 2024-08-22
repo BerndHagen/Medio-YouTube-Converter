@@ -43,13 +43,14 @@ a link to the original source when possible.
 
 >> THIRD-PARTY LIBRARIES
 ------------------------------
-Medio leverages several third-party libraries to deliver a robust user experience, 
-#with FFmpeg being the primary tool for multimedia processing. FFmpeg, an open-source 
-project licensed under the GNU Lesser General Public License (LGPL), is essential for 
-handling various media operations within the application. Additionally, Medio utilizes 
-yt-dlp, a public domain tool for downloading media, which operates under the Unlicense. 
-Users should be aware that the use of FFmpeg, yt-dlp, and other integrated libraries
-within Medio is subject to their respective licenses, and it is recommended to review 
+Medio leverages several third-party libraries to deliver a robust user 
+experience, with FFmpeg being the primary tool for multimedia processing. 
+FFmpeg, an open-source project licensed under the GNU Lesser General Public 
+License (LGPL), is essential for handling various media operations within 
+the application. Additionally, Medio utilizes yt-dlp, a public domain tool 
+for downloading media, which operates under the Unlicense. Users should be 
+aware that the use of FFmpeg, yt-dlp, and other integrated libraries within 
+Medio is subject to their respective licenses, and it is recommended to review 
 and comply with these licensing terms.
 
 >> RESTRICTIONS
