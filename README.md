@@ -201,14 +201,14 @@ Medio collects account data to enhance and personalize your experience. The coll
 
 ### Key Activation and Data Sync
 
-Once a key has been purchased and redeemed in the **Settings** tab under **Key Activation**, it can always be used to retrieve the latest account data from Medio's database. This ensures that your preferences and progress are preserved across sessions.
+Once a key has been purchased and redeemed in the `Settings` tab under **Key Activation**, it can always be used to retrieve the latest account data from Medio's database. This ensures that your preferences and progress are preserved across sessions.
 
 While most account data is backed up and can be restored from the database, some data, such as your **Download History**, is stored locally on your device. **Locally stored data cannot be recovered** if Medio is reinstalled on a different system or directory, which will result in the loss of your Download History.
 
 - Accounts **without a license key** will be automatically deleted from the database if they remain inactive for **90 days**.
 - Users with an **Encore** or **Premium** license connected to their account are **exempt from this time limit** and can maintain their account indefinitely.
 
-Once an account has been deleted from the system, it **can't be restored**. All associated data is permanently removed and cannot be recovered.
+**Note:** Once an account has been deleted from the system, it **can't be restored**. All associated data is permanently removed and can't be recovered.
 
 ## **Copyright**
 
