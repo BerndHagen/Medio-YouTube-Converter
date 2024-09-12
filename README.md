@@ -46,26 +46,26 @@ Medio uses the ffmpeg library to recode the audio, ensuring that the final media
 ## **System Requirements**
 
 ### **Minimum Requirements**
-- **Operating System:** Windows 10 or higher
-- **Processor:** Intel Core i3 or AMD Ryzen 3 or equivalent
-- **RAM:** 4 GB
+- **Operating System:** Windows 7 or higher
+- **Processor:** Dual-core processor (e.g., Intel Core 2 Duo or AMD Athlon X2)
+- **RAM:** 2 GB
 - **Storage:**
-  - **Application:** 200 MB of free disk space in `AppData\Local`
-  - **Temporary Files:** 30 MB of extra free disk space
-- **Software:** .NET 6.0 or higher
+  - **Application:** 200 MB of free disk space
+  - **Temporary Files:** 20 MB of extra free disk space
+- **Software:** .NET 6.0 Runtime
   - [Download .NET 6.0 Runtime](https://dotnet.microsoft.com/download/dotnet/6.0/runtime)
-- **Internet:** A stable internet connection for downloading content and loading user information
+- **Internet:** Internet connection for downloading content and verifying licenses
 
 ### **Recommended Requirements**
-- **Operating System:** Windows 10 or higher
-- **Processor:** Intel Core i5 or AMD Ryzen 5 or higher
-- **RAM:** 8 GB
+- **Operating System:** Windows 7 or higher
+- **Processor:** Quad-core processor (e.g., Intel Core i5 or AMD Ryzen 5)
+- **RAM:** 4 GB or higher
 - **Storage:**
-  - **Application:** 200 MB of free disk space in `AppData\Local`
+  - **Application:** 200 MB of free disk space
   - **Temporary Files:** 50 MB of extra free disk space
-- **Software:** .NET 6.0 or higher
+- **Software:** .NET 6.0 Runtime
   - [Download .NET 6.0 Runtime](https://dotnet.microsoft.com/download/dotnet/6.0/runtime)
-- **Internet:** A stable internet connection for downloading content and loading user information
+- **Internet:** A stable internet connection for optimal performance
 
 ## **License Options and Benefits**
 
