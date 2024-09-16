@@ -184,7 +184,7 @@ If you have any questions or issues related to these libraries, please [open an 
 
 ## Data Collection and Account Management
 
-Medio collects account data to enhance and personalize your experience. Upon installation and the first launch of the application, an account is automatically created in the database, allowing you to begin using Medio right away. The collected data includes:
+Medio collects account data to enhance and personalize your experience. Upon installation and the first launch of the application, an **account is automatically created** in the database, allowing you to begin using Medio right away. The collected data includes:
 
 - Personal settings
 - Selected avatar
