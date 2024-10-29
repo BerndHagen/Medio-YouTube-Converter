@@ -65,7 +65,7 @@ Medio uses the ffmpeg library to recode the audio, ensuring that the final media
 
 ## **License Options and Benefits**
 
-Purchasing a license key for Medio provides a lifetime license, allowing unrestricted use at any location and time. After activation, the license's features become permanent unless the software is reinstalled in a new directory or on a different device, requiring the license key to be redeemed again to load the data from the database. Two license types are available, each offering new features such as additional formats or the Playlist Downloader. The license key will be delivered via email within **5-10 minutes** after payment is processed.
+Medio is available for **free**, allowing users to download unlimited audio files in `MP3` format and videos in `MP4` format. By purchasing a license key, users can unlock a range of additional features for a lifetime, providing unrestricted access at any time and from any location. Once activated, these features remain permanent unless the software is reinstalled in a new directory or on a different device. In such cases, the license key must be redeemed again to restore data from the database. Two types of licenses are available for purchase, each offering unique benefits, such as support for additional formats or the Playlist Downloader feature. The license key will be automatically sent via email within **5-10 minutes** after payment is successfully processed.
 
 ### **★--[ Encore License ]--★**
 
