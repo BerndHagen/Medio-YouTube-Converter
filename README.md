@@ -1,6 +1,6 @@
 # **Medio - YouTube Converter**
 
-**Medio** is a user-friendly software solution designed for efficiently downloading YouTube content. Whether you need to download videos, extract audio or save entire playlists, Medio offers a comprehensive solution. Its intuitive interface allows to effortlessly input a YouTube link, select the preferred quality and filename, and start downloading with just a few clicks.
+**Medio** is a user-friendly software solution designed for downloading YouTube content. Whether you need to download videos, extract audio or save entire playlists, Medio offers a comprehensive solution. Its intuitive interface allows to effortlessly input a YouTube link, select the preferred quality and filename, and start downloading with just a few clicks.
 
 ### **Key Features**
 
@@ -28,7 +28,6 @@ Medio uses the ffmpeg library to recode the audio, ensuring that the final media
 
 1. [System Requirements](#system-requirements)
 2. [License Options and Benefits](#license-options-and-benefits)
-   - [Encore License](#license-options-and-benefits)
    - [Premium License](#license-options-and-benefits)
 3. [Free Trial License Key](#free-trial-license-key)
 4. [Getting Started Guide](#getting-started-guide)
@@ -65,30 +64,21 @@ Medio uses the ffmpeg library to recode the audio, ensuring that the final media
 
 ## **License Options and Benefits**
 
-Medio is available for **free**, allowing users to download unlimited audio files in `MP3` format and videos in `MP4` format. By purchasing a license key, users can unlock a range of additional features for a lifetime, providing unrestricted access at any time and from any location. Once activated, these features remain permanent unless the software is reinstalled in a new directory or on a different device. In such cases, the license key must be redeemed again to restore data from the database. Two types of licenses are available for purchase, each offering unique benefits, such as support for additional formats or the Playlist Downloader feature. The license key will be automatically sent via email within **5-10 minutes** after payment is successfully processed.
-
-### **★--[ Encore License ]--★**
-
-| **Feature**                     | **Description**                                                        |
-|---------------------------------|------------------------------------------------------------------------|
-| **Full Settings Access**        | Unlock all video and audio formats with customizable buffer sizes      |
-| **Secure Storage**              | Securely retrieve account data from the database via license key       |
-| **Increased Bandwidth**         | Faster media downloads with increased bandwidth capacity               |
+Medio is available for **free**, offering users unlimited downloads of video and audio files in various formats. By purchasing a Premium License, users can unlock a range of additional features for a lifetime, providing unrestricted access at any time and from any location. Once activated, these features remain permanent unless the software is reinstalled in a new directory or on a different device. In such cases, the license key must be redeemed again to restore data from the database. The license key will be automatically sent via email within **5-10 minutes** after payment is successfully processed.
 
 ### **★--[ Premium License ]--★**
 
 | **Feature**                     | **Description**                                                        |
 |---------------------------------|------------------------------------------------------------------------|
-| **Full Settings Access**        | Unlock all video and audio formats with customizable buffer sizes      |
-| **Secure Storage**              | Securely retrieve account data from the database via license key       |
 | **Unlimited Bandwidth**         | Download media files at ultra-fast speeds without bandwidth limits     |
-| **Extended History**            | Access to a larger download history, increasing from 2 to 25 pages     |
-| **Additional Resolutions**      | Select higher video resolutions, including 2160p (4K) and 4320p (8K)   |
+| **Extended History**            | Access to a larger download history, increasing from 10 entries to 100 |
+| **Secure Storage**              | Securely retrieve account data from the database via license key       |
+| **Additional Resolutions**      | Select higher video resolutions, including 2160p and 4320p    |
 | **Playlist Downloader**         | Download and convert multiple media files with the Playlist Downloader |
 
 ## **Free Trial License Key**
 
-Experience Medio's premium features with the free trial license key provided below. This key grants a one-time access to premium features, including all settings, playlist downloads, expanded history, higher video resolutions and unlimited bandwidth, available for up to **10** downloads. 
+Experience Medio's Premium features with the free trial license key provided below. This key grants a one-time access to premium features, including all settings, playlist downloads, expanded history, higher video resolutions and unlimited bandwidth, available for up to **10** downloads. 
 
 **Unlock Medio's Premium Converter Features:**
 ```yaml
@@ -193,7 +183,7 @@ Medio collects account data to enhance and personalize your experience. Upon ins
 - Total megabytes downloaded
 - Total number of audio and video files downloaded
 - Number of remaining downloads when using a trial license key
-- Version of Medio being used (e.g., Classic, Encore, or Premium)
+- Version of Medio being used (e.g., Basic or Premium)
 
 ### Key Activation and Data Sync
 
@@ -202,7 +192,7 @@ Once a key has been purchased and redeemed in the `Settings` tab under **Key Act
 While most account data is backed up and can be restored from the database, some data, such as your **Download History**, is stored locally on your device. **Locally stored data cannot be recovered** if Medio is reinstalled on a different system or directory, which will result in the loss of your Download History.
 
 - Accounts **without a license key** will be automatically deleted from the database if they remain inactive for **180 days**.
-- Users with an **Encore** or **Premium** license connected to their account are **exempt from this time limit** and can maintain their account indefinitely.
+- Users with a **Premium License** connected to their account are **exempt from this time limit** and can maintain their account indefinitely.
 
 **Note:** Once an account has been deleted from the system, it **can't be restored**. All associated data is permanently removed and can't be recovered.
 
