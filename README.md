@@ -78,14 +78,14 @@ Medio is available for **free**, allowing users to download unlimited video and 
 
 ## **Free Trial License Key**
 
-Experience Medio's Premium features with the free trial license key provided below. This key grants a one-time access to premium features, including all settings, playlist downloads, expanded history, higher video resolutions and unlimited bandwidth, available for up to **10** downloads. 
+Experience Medio's Premium features with the free trial license key provided below. This key grants a one-time access to premium features, including unlimited bandwidth, playlist downloads, expanded history and higher video resolutions, available for up to **10** downloads. 
 
-**Unlock Medio's Premium Converter Features:**
+**Unlock Medio's Premium Features:**
 ```yaml
 License Key:     PT4O-5TYD-WKTV-0ZZ7
 ```
 
-Once the license key has been redeemed, it becomes invalid and can't be used again. After the download limit is reached, the premium features will no longer be accessible.
+Once the license key has been redeemed, it becomes invalid and can't be used again. After the download limit is reached, the Premium features will no longer be accessible.
 
 ## **Getting Started Guide**
 
